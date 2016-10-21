@@ -15,21 +15,19 @@ repositories to pull. Visit the 'manifest' project to find out how to
 
 ## Building Fuchsia
 
-### Build Magenta and [optional] QEMU
-
-First, follow Magenta's
+Before building Fuchsia, you should follow Magenta's
 [instructions](https://fuchsia.googlesource.com/magenta/+/master/docs/getting_started.md#Preparing-the-build-environment)
-from "Preparing the build environment" up through "Build Magenta". It isn't
+from "Preparing the build environment" up through "Configure PATH". It isn't
 necessary to check out the Magenta and QEMU sources, they are included in the
 Fuchsia manifest. Note, building QEMU isn't strictly required if you're only
 developing on actual hardware, but it is a good tool to have at the ready.
 
 ### Build a sysroot
 
-Next, you need to build a sysroot:
+First, you need to build the kernel and the sysroot:
 
 ```
-./scripts/build-sysroot.sh -c -t x86_64
+./scripts/build-sysroot.sh
 ```
 
 ### Build Fuchsia
