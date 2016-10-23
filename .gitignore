@@ -88,3 +88,6 @@ flycheck_*.el
 
 # projectiles files
 .projectile
+
+# Recipes
+/infra/.recipe_deps
