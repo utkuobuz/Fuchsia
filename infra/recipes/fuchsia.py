@@ -55,7 +55,8 @@ def RunSteps(api, category, patch_gerrit_url, patch_project, patch_ref,
 
     with api.step.nest('build Fuchsia'), api.goma.build_with_goma():
         api.step('gen',
-                 ['packages/gn/gen.py', '--goma=%s' % api.goma.goma_dir])
+                 ['packages/gn/gen.py', '--target_cpu=%s' % fuchsia_target,
+                  '--goma=%s' % api.goma.goma_dir])
         api.step('ninja',
                  ['buildtools/ninja', '-C', 'out/debug-%s' % fuchsia_target,
                   '-j', api.goma.recommended_goma_jobs])
