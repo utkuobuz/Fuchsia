@@ -65,9 +65,8 @@ system with this filesystem attached in QEMU, pass the user.bootfs path as the
 value of the '-x' parameter in Magenta's start command script, for example:
 
 ```
-cd magenta
-./scripts/run-magenta-x86-64 -x ../out/debug-x86-64/user.bootfs -m 2048
-./scripts/run-magenta-arm64 -x ../out/debug-aarch64/user.bootfs -m 2048
+./scripts/run-magenta-x86-64 -x out/debug-x86-64/user.bootfs -m 2048
+./scripts/run-magenta-arm64 -x out/debug-aarch64/user.bootfs -m 2048
 ```
 
 If you want a graphical console, add the `-g` flag. The `-m` flag sets QEMU's
