@@ -71,7 +71,7 @@ value of the '-x' parameter in Magenta's start command script, for example:
 
 If you want a graphical console, add the `-g` flag. The `-m` flag sets QEMU's
 memory size in MB. Adding `-N` will enable network, but you will need to
-[configure](https://fuchsia.googlesource.com/magenta/+/master/docs/getting_started.md#Enabling-Networking-under-Qemu-x86_64-only)
+[configure](https://fuchsia.googlesource.com/magenta/+/master/docs/qemu.md#Enabling-Networking-under-Qemu-x86_64-only)
 a virtual interface and this is only available under x86_64.
 
 Then, when Fuchsia has booted and started an MXCONSOLE, you can run programs!
