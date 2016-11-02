@@ -39,7 +39,14 @@ Finally, you can build Fuchsia using these commands:
 ./buildtools/ninja -C out/debug-x86-64
 ```
 
-[Googlers only] If you have goma installed, use these alternative commands for faster builds:
+Optionally if you have ccache installed and configured (i.e. the CCACHE_DIR environment variable is set to an existing directory), use the following command for faster builds:
+
+```
+./packages/gn/gen.py --ccache
+./buildtools/ninja -C out/debug-x86-64
+```
+
+[Googlers only] If you have goma installed, prefer goma over ccache and use these alternative commands for faster builds:
 
 ```
 ./packages/gn/gen.py --goma
