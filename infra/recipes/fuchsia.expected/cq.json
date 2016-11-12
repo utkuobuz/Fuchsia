@@ -106,7 +106,7 @@
       "[CACHE]/cipd/jiri",
       "init",
       "-cache",
-      "[JIRI_CACHE]"
+      "[CACHE]/jiri"
     ],
     "name": "jiri init"
   },
@@ -194,6 +194,7 @@
       "restart"
     ],
     "env": {
+      "GOMA_CACHE_DIR": "[CACHE]/goma",
       "GOMA_SERVICE_ACCOUNT_JSON_FILE": "/creds/service_accounts/service-account-goma-client.json"
     },
     "name": "build Fuchsia.start_goma",
@@ -262,6 +263,7 @@
       "[CACHE]/cipd/goma/jsonstatus"
     ],
     "env": {
+      "GOMA_CACHE_DIR": "[CACHE]/goma",
       "GOMA_SERVICE_ACCOUNT_JSON_FILE": "/creds/service_accounts/service-account-goma-client.json"
     },
     "name": "build Fuchsia.goma_jsonstatus",
@@ -277,6 +279,7 @@
       "stat"
     ],
     "env": {
+      "GOMA_CACHE_DIR": "[CACHE]/goma",
       "GOMA_SERVICE_ACCOUNT_JSON_FILE": "/creds/service_accounts/service-account-goma-client.json"
     },
     "name": "build Fuchsia.goma_stat",
@@ -292,6 +295,7 @@
       "stop"
     ],
     "env": {
+      "GOMA_CACHE_DIR": "[CACHE]/goma",
       "GOMA_SERVICE_ACCOUNT_JSON_FILE": "/creds/service_accounts/service-account-goma-client.json"
     },
     "name": "build Fuchsia.stop_goma",
