@@ -7,81 +7,93 @@ we try to link to everything you need to get started, use, and develop for
 Fuchsia.
 
 ## Getting the source
+Get the Fuchsia source by following these two steps and then return to this document:
+  * [Install prerequisites](https://fuchsia.googlesource.com/manifest/+/HEAD/README.md#Prerequisites) for Jiri, a tool for multi-repo development.
+  * [Create a new checkout](https://fuchsia.googlesource.com/manifest/+/HEAD/README.md#Creating-a-new-checkout) of Fuchsia.
 
-The Fuchsia project is in many Git repositories and we use the jiri tool to make
-it easier to work with these repositories. jiri uses manifest files to know what
-repositories to pull. Visit the 'manifest' project to find out how to
-[check out the source](https://fuchsia.googlesource.com/manifest/+/HEAD/README.md).
+## Prerequisites
 
-## Building Fuchsia
+### Magenta Prerequisites
 
-Before building Fuchsia, you should follow Magenta's
-[instructions](https://fuchsia.googlesource.com/magenta/+/master/docs/getting_started.md#Preparing-the-build-environment)
-from "Preparing the build environment" up through "Configure PATH". It isn't
-necessary to check out the Magenta and QEMU sources, they are included in the
-Fuchsia manifest. Note, building QEMU isn't strictly required if you're only
-developing on actual hardware, but it is a good tool to have at the ready.
+The Fuchsia source  includes [Magenta](https://fuchsia.googlesource.com/magenta), the core platform which underpins Fuchsia. Follow this step to install the Magenta build prerequisites and then return to this document:
 
-### Build a sysroot
+* [Preparing the Magenta build environment](https://fuchsia.googlesource.com/magenta/+/master/docs/getting_started.md#Preparing-the-build-environment).
 
-First, you need to build the kernel and the sysroot:
+### [Googlers only] Goma
+
+Ensure `goma` is installed on your machine for faster builds.
+
+## Build Fuchsia
+### Setup Build Environment
+
+Source the `env.sh` script, which provides helpful shell functions for Fuchsia development. The following command also changes the command prompt and sets up for a x86-64 build.
 
 ```
-./scripts/build-sysroot.sh
+source scripts/env.sh && envprompt && fset x86-64
 ```
+
+Run `envhelp` to see other useful shell functions, and `envhelp <function>` for specific usage information.
+
+[optional] You might find it useful to add a shell function `fuchsia` as a shortcut to setup the build environment. For that, add this your shell startup script (e.g. `~/.bashrc`):
+
+```
+export FUCHSIA_ROOT=/path/to/my/fuchsia/source
+function fuchsia() {
+  source $FUCHSIA_ROOT/scripts/env.sh && envprompt && fgo && fset x86-64 "$@"
+}
+```
+
+
+### [optional] Customize Build Environment
+
+By default you will get a x86-64 debug build, and you can skip this step unless you want something else.
+
+[Googlers only: If you have `goma` installed, it will also be used by default. Prefer `goma` over `ccache`]
+
+Run `fset-usage` to see a list of build options. Some examples:
+
+```
+fset x86-64           # x86-64 debug build, no goma, no ccache
+fset arm64            # arm64 debug build, no goma, no ccache
+fset x86-64 --release # x86-64 release build, no goma, no ccache
+fset x86-64 --ccache  # x86-64 debug build, ccache enabled
+```
+
+Note: to use `ccache` or `goma` you must install them first.
 
 ### Build Fuchsia
 
-Finally, you can build Fuchsia using these commands:
-
+Once you have setup your build environment, simply run:
 ```
-./packages/gn/gen.py
-./buildtools/ninja -C out/debug-x86-64
+fbuild
 ```
 
-Optionally if you have ccache installed and configured (i.e. the CCACHE_DIR environment variable is set to an existing directory), use the following command for faster builds:
+This builds Magenta, the sysroot, and the default Fuchsia build.
 
-```
-./packages/gn/gen.py --ccache
-./buildtools/ninja -C out/debug-x86-64
-```
+### Run Fuchsia in QEMU
 
-[Googlers only] If you have goma installed, prefer goma over ccache and use these alternative commands for faster builds:
+After Fuchsia is built, you will have a Magenta (`magenta.bin`) image and a `user.bootfs` file in `out/debug-{arch}/`.
 
-```
-./packages/gn/gen.py --goma
-./buildtools/ninja -j1000 -C out/debug-x86-64
-```
+To run Magenta with `user.bootfs` attached in QEMU:
 
-The gen.py script takes an optional parameter '--target\_cpu' to set the target
-architecture. If not supplied, it defaults to x86-64.
 
+* Build and install Fuchsia's fork of [QEMU](https://fuchsia.googlesource.com/magenta/+/HEAD/docs/qemu.md#Build-QEMU):
 ```
-./packages/gn/gen.py --target_cpu=aarch64
-./buildtools/ninja -C out/debug-aarch64
+cd third_party/qemu
+./configure --target-list=arm-softmmu,aarch64-softmmu,x86_64-softmmu
+make -j32
+sudo make install
 ```
 
-You can configure the set of modules that `gen.py` uses with the `--modules`
-argument. After running `gen.py` once, you can do incremental builds using
-`ninja`.
-
-### Running Fuchsia
-
-These commands will create an `out/debug-{arch}/user.bootfs` file. To run the
-system with this filesystem attached in QEMU, pass the user.bootfs path as the
-value of the '-x' parameter in Magenta's start command script, for example:
-
+* Run Fuchsia in QEMU:
 ```
-./scripts/run-magenta-x86-64 -x out/debug-x86-64/user.bootfs -m 2048
-./scripts/run-magenta-arm64 -x out/debug-aarch64/user.bootfs -m 2048
+frun -g
 ```
-
-If you want a graphical console, add the `-g` flag. The `-m` flag sets QEMU's
-memory size in MB. Adding `-N` will enable network, but you will need to
+To run in command-line only mode, omit the `-g` flag. The `-m` flag sets QEMU's memory size in MB. Adding `-N` will enable network, but you will need to
 [configure](https://fuchsia.googlesource.com/magenta/+/master/docs/qemu.md#Enabling-Networking-under-Qemu-x86_64-only)
 a virtual interface and this is only available under x86_64.
 
-Then, when Fuchsia has booted and started an MXCONSOLE, you can run programs!
+When Fuchsia has booted and started an MXCONSOLE, you can run programs!
 
 For example, to receive deep wisdom, run:
 
@@ -89,17 +101,23 @@ For example, to receive deep wisdom, run:
 fortune
 ```
 
-For applications in /boot/apps you can run 'mojo:<APP_NAME>', for some cool
-shapes try:
+Run [mozart](https://fuchsia.googlesource.com/mozart) applications in `/system/apps` like this:
 
 ```
-mojo:shapes
+@ bootstrap launch spinning_square_view
 ```
 
-You can use the Alt key with function keys to switch MXCONSOLE instances, Alt+F2
-to access the second one, for example.
+Some more mozart example apps are [here](https://fuchsia.googlesource.com/mozart/+/HEAD/examples/).
+
+### Run Fuchsia on hardware
+
+* [Acer Switch Alpha 12](https://fuchsia.googlesource.com/magenta/+/master/docs/targets/acer12.md)
+* [Intel NUC](https://fuchsia.googlesource.com/magenta/+/master/docs/targets/nuc.md)
+* [Raspberry Pi 3](https://fuchsia.googlesource.com/magenta/+/master/docs/targets/rpi3.md)
 
 ## Additional helpful documents
-If you're contributing changes, visit the 'manifest' repository
-[documentation](https://fuchsia.googlesource.com/manifest/+/HEAD/README.md#Submitting-changes)
-for more information about submitting changes.
+
+
+* [Fuchsia documentation](https://fuchsia.googlesource.com/docs) hub.
+* [Contributing changes](https://fuchsia.googlesource.com/manifest/+/HEAD/README.md#Submitting-changes).
+* More about the [build commands](https://fuchsia.googlesource.com/fuchsia/+/HEAD/BUILD_NOTES.md) called under-the-hood by `fbuild`.
