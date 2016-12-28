@@ -70,28 +70,24 @@ fbuild
 
 This builds Magenta, the sysroot, and the default Fuchsia build.
 
-### Run Fuchsia in QEMU
-
 After Fuchsia is built, you will have a Magenta (`magenta.bin`) image and a `user.bootfs` file in `out/debug-{arch}/`.
 
-To run Magenta with `user.bootfs` attached in QEMU:
+### Run Fuchsia in QEMU
 
+You can run Fuchsia under emulation using [QEMU](https://fuchsia.googlesource.com/magenta/+/HEAD/docs/qemu.md).
+Fuchsia includes prebuilt binaries for QEMU under `buildtools/qemu`.
 
-* Build and install Fuchsia's fork of [QEMU](https://fuchsia.googlesource.com/magenta/+/HEAD/docs/qemu.md#Build-QEMU):
+The `frun` command will launch Magenta within QEMU, using the locally built
+`user.bootfs`:
+
 ```
-cd third_party/qemu
-./configure --target-list=arm-softmmu,aarch64-softmmu,x86_64-softmmu
-make -j32
-sudo make install
+frun
 ```
 
-* Run Fuchsia in QEMU:
-```
-frun -g
-```
-To run in command-line only mode, omit the `-g` flag. The `-m` flag sets QEMU's memory size in MB. Adding `-N` will enable network, but you will need to
-[configure](https://fuchsia.googlesource.com/magenta/+/master/docs/qemu.md#Enabling-Networking-under-Qemu-x86_64-only)
-a virtual interface and this is only available under x86_64.
+There are various flags for `frun` to control QEMU's configuration. The `-m`
+flag sets QEMU's memory size in MB, while `-g` and `-N` enable graphics and
+networking, respectively (see below). Use `frun -h` to see all available
+options.
 
 When Fuchsia has booted and started an MXCONSOLE, you can run programs!
 
@@ -101,13 +97,35 @@ For example, to receive deep wisdom, run:
 fortune
 ```
 
-Run [mozart](https://fuchsia.googlesource.com/mozart) applications in `/system/apps` like this:
+#### Enabling Graphics
+
+To enable graphics, add the `-g` flag to `frun`:
+
+```
+frun -g
+```
+
+Run graphical applications (using [mozart](https://fuchsia.googlesource.com/mozart))
+in `/system/apps` like this:
 
 ```
 @ bootstrap launch spinning_square_view
 ```
 
 Some more mozart example apps are [here](https://fuchsia.googlesource.com/mozart/+/HEAD/examples/).
+
+#### Enabling Network
+
+Note: Networking support within QEMU is only available under x86_64.
+
+First, [configure](https://fuchsia.googlesource.com/magenta/+/master/docs/qemu.md#Enabling-Networking-under-Qemu-x86_64-only)
+a virtual interface for QEMU's use.
+
+Once this is done you can add the -N flag to `frun`:
+
+```
+frun -N
+```
 
 ### Run Fuchsia on hardware
 
