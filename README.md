@@ -15,7 +15,7 @@ Get the Fuchsia source by following these two steps and then return to this docu
 
 ### Magenta Prerequisites
 
-The Fuchsia source  includes [Magenta](https://fuchsia.googlesource.com/magenta), the core platform which underpins Fuchsia. Follow this step to install the Magenta build prerequisites and then return to this document:
+The Fuchsia source  includes [Magenta](https://fuchsia.googlesource.com/magenta), the core platform which underpins Fuchsia. Follow this step to install the Magenta build prerequisites and then return to this document. (You can ignore the toolchain installation instructions unless you want to build your own; the Fuchsia manifest will automatically obtain a prebuilt toolchain.)
 
 * [Preparing the Magenta build environment](https://fuchsia.googlesource.com/magenta/+/master/docs/getting_started.md#Preparing-the-build-environment).
 
