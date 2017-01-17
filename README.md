@@ -97,6 +97,25 @@ For example, to receive deep wisdom, run:
 fortune
 ```
 
+#### Working with Fuchsia system components
+
+The `bootstrap` utility sets up the environment and system services required
+to use and develop Fuchsia applications. You can run individual Fuchsia
+applications invoking their url:
+
+    @ bootstrap [args...] <app url> <app args...>
+
+Bootstrap can also be run without any initial apps for debugging purposes.
+
+    @ bootstrap -
+
+You can run additional Fuchsia applications within an existing bootstrap
+environment by specifying the `boot` scope:
+
+    @boot <app url> <app args...>
+
+More information on bootstrap and its uses can be found [here](https://fuchsia.googlesource.com/modular/+/HEAD/src/bootstrap/)
+
 #### Enabling Graphics
 
 To enable graphics, add the `-g` flag to `frun`:
