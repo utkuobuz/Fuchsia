@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d9942e0d8e73b27fe82c0dbb4d97c7584aac93ff
+	branch = a3849ad32441adcce95488293ab509cda2e34187
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = c5858ed3a744c3fd19236df0febb8eb627ec8148
+	branch = fd1fbdbf082d6368ea30e6d60a2b9b48a6503a05
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -76,7 +76,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 0d5cf900b021bf5c9fa593ffa12b15bcd1cc5fe0
+	branch = ec97188f7a81cb9dc64e6e88452a43f0555cce28
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
@@ -96,7 +96,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 44dbdbe3ef30f8fc5a15375dcc3407d6642f5e4c
+	branch = 63b9dab1684c4c9b948ea0d38ee19f4ffdf96444
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -120,7 +120,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = aa2436d780957672bd796a4e69a95a0bceb3ba65
+	branch = 5c095dc8a25b5038515aa6811212b03cdfc1c1a4
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -353,7 +353,7 @@
 	path = third_party/vboot_reference
 	url = ../third_party/vboot_reference
 [submodule "third_party/vim"]
-	branch = 4be155a394a47307cd0207e94be1b79ef31f5ad0
+	branch = dce7c84ad5b87f369c4b1610b8a6bd720a3e0c42
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
@@ -386,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = a6622a2cf6a35dd29a5614cbaa8729c6aa56af38
+	branch = 15b69ba02aa4cd256a32fdc26eae85f9447a014d
 	path = zircon
 	url = ../zircon
