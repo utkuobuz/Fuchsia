@@ -96,7 +96,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 3fbdbe3637b29e346805ecbadfcfc6de6df5fc1c
+	branch = 0749b8768586d79da723ecf053c0069039fc5834
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
