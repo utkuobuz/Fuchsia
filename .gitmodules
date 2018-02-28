@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = a6a8da06f73098cef60f2273675abea86de45879
+	branch = 39978610d5e77d09c6eb4682319b68fa02be4527
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 9c2e7dda5ddb5600ec0ae2e1d71a81fca136c71a
+	branch = 5449a7769fc9300d43e77b59f0ca258143662758
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -353,7 +353,7 @@
 	path = third_party/vboot_reference
 	url = ../third_party/vboot_reference
 [submodule "third_party/vim"]
-	branch = dce7c84ad5b87f369c4b1610b8a6bd720a3e0c42
+	branch = 7bdc3fd7d76cd6694b8a0c6a5b71b37dcaa17a28
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
@@ -386,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = fce550277b65e09a86db7f8c0339fb97119b1d70
+	branch = f83a640296f47a23a7d30090c459ef75afcf0e47
 	path = zircon
 	url = ../zircon
