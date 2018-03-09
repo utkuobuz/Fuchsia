@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = ca98826558e69989a3d50938a5761952ed4af13b
+	branch = b0cd1c5c9cae8bd47adfa49dcf19db9f9cadfc13
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 68c9538fe5a33f623caf589aa3143605d05c27f5
+	branch = 1038f548088b6a3f169357961d00dc28b8a8a917
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -68,7 +68,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 9a9aed191df3163ed1cbe891fa94df201a243f4d
+	branch = 35c43ecc98c5c17425e4702a2b3af420ba2a5722
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -76,7 +76,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 1aaebedd7045a44ba92bb1bb27c3a8bc25d74856
+	branch = b5b8080b2cfb1e4943a19787ee96548a4a604f7b
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
@@ -96,7 +96,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = b05efc204090f430387398d3c35589571a2fe16b
+	branch = 9c1e48434bacc49f8e22d715b6af6171c528e67f
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -386,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 02eb7d62e6fbebd72c02f59b4c1e991b1fa8b6d9
+	branch = 45518877bb60bd74a5d6823b6d260a4977f46c1f
 	path = zircon
 	url = ../zircon
