@@ -239,10 +239,6 @@
 	branch = master
 	path = third_party/libxml2
 	url = ../third_party/libxml2
-[submodule "third_party/lua"]
-	branch = fa9d2fbda77ec7aa0ce7474e6475aeeef8465a28
-	path = third_party/lua
-	url = ../third_party/lua
 [submodule "third_party/mako"]
 	branch = master
 	path = third_party/mako
