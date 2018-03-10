@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 471592e9054e2f7e61e2c81e9bec1b29f59462d9
+	branch = 4bac25f18fa31baaed3d6014373b23bb5551f88f
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 4d889074f6c711555b533342b2a1a78a2328cce4
+	branch = fc3dff2b4fe3f5dc614f73deb9ac7f4c4b1bc485
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -96,7 +96,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 9c1e48434bacc49f8e22d715b6af6171c528e67f
+	branch = e74e8b35cd91e5fdbcdbe3dc89a334ff79a1857f
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -386,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = aec0f6c207351a0fed7ea08743c4b50240135e12
+	branch = fa67e5410037a140f08994036c9d5ce12e331b9c
 	path = zircon
 	url = ../zircon
