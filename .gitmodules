@@ -107,10 +107,6 @@
 	branch = master
 	path = third_party/gflags
 	url = ../third_party/gflags
-[submodule "third_party/git"]
-	branch = master
-	path = third_party/git
-	url = ../third_party/git
 [submodule "third_party/glm"]
 	branch = 5dcc56489e1b66dfd5bca751fa9b8dc68059e008
 	path = third_party/glm
