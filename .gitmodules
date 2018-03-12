@@ -361,10 +361,6 @@
 	shallow = true
 	path = third_party/webkit
 	url = ../third_party/webkit
-[submodule "third_party/xi-editor"]
-	branch = 25fd559f81ca07e18c80a5fc5ecfbc96834c0a12
-	path = third_party/xi-editor
-	url = ../third_party/xi-editor
 [submodule "third_party/yasm"]
 	branch = master
 	path = third_party/yasm
