@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 853f22b072e2f9d3ac41371f08f8d5ef30a7d113
+	branch = a568a78087343599e54728bd28f9c9547c9755f6
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 0a235ffc0e76774ae5b41210361bd1f30332d20e
+	branch = 3bbbb3d3195427b368f85f33ad071bf2df3da4db
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -316,6 +316,10 @@
 	branch = master
 	path = third_party/rust-mirrors/tokio-core
 	url = ../third_party/tokio-core
+[submodule "third_party/rust-mirrors/xi-editor"]
+	branch = master
+	path = third_party/rust-mirrors/xi-editor
+	url = ../third_party/xi-editor
 [submodule "third_party/sbase"]
 	branch = 8c63a02ac3c01c0383061c7c320f8944b2abd364
 	path = third_party/sbase
@@ -374,6 +378,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 90b8a26a5df9d3e4a9d44bf654cd84246206c3d2
+	branch = 83c59bccf2d6718ee90a57faf5130473950a2e39
 	path = zircon
 	url = ../zircon
