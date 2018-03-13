@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 42419ad606bb1c7405856ef02723b3a75f6a10d8
+	branch = a6227ad8d19c4da235ef715a5a921607c94b85b0
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = ed8823f386a47b7a5a6d335f495636aed738daf9
+	branch = c6407e737a924fb3d24c080124a828c0a4e555db
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -52,7 +52,7 @@
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/external/github.com/catapult-project/catapult
 [submodule "third_party/cobalt"]
-	branch = 53112928df1dc201a9378cd7320f011a5b7f6f24
+	branch = 22dc9785960856e6c7af40206136abb0b24e9fe6
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
@@ -116,7 +116,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 8d0e8be4579ded4ba43b62b2dd7ba989ad32b91d
+	branch = be5b172fa4f861fd8d7629125e7159b4ba790d4e
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -378,6 +378,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = bf680ceb72c5df7d9c78f10af6af5e592d6a3fde
+	branch = b8a66907db0b31c72db458bb4343c57571777f73
 	path = zircon
 	url = ../zircon
