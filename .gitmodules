@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 76031cc2c056269a7e8410373cd17b63da20ff42
+	branch = e04a19c3d5df20b62bb1f849194b93067f3ab860
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 236997dd271018c42c6201f53478847ae601ec5f
+	branch = 9d2ef28b8d22615123d332e4c47c8d2b6d8b010e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -281,7 +281,7 @@
 	path = third_party/pyyaml
 	url = ../third_party/pyyaml
 [submodule "third_party/rapidjson"]
-	branch = e8b305ae6ab34f369fb7c753406671a6caccc31f
+	branch = 815fc9c85e9501b245b0a0f3c18fa7d809bc21ac
 	path = third_party/rapidjson
 	url = ../third_party/rapidjson
 [submodule "third_party/re2"]
