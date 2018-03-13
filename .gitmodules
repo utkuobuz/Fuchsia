@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = df0b4be9c27439bdb1903b1e2f199f24ed7d1f09
+	branch = cd5961dfce5294d5e2bbc2a18d4a824d161f8baf
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 0143fbc9a6d088e2b75dd72c7471adfdabbba317
+	branch = d18a7fd1dcb826214fea11c9166f42c9c2c6186a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
