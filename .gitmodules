@@ -336,10 +336,6 @@
 	branch = master
 	path = third_party/snappy
 	url = ../third_party/snappy
-[submodule "third_party/speccpu2000"]
-	branch = master
-	path = third_party/speccpu2000
-	url = ../third_party/speccpu2000
 [submodule "third_party/sqlite"]
 	branch = master
 	path = third_party/sqlite
