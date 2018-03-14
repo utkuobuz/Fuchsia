@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = e2bb5dc87fc9e12ac5f6c8bddce73887e12aee61
+	branch = 2ffec287a12ade228ae345b84670bee66e15fea3
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 346cfbafc77e3260f72e33a5af9cff87ca408a2e
+	branch = 4671c2229a8d9309537fe707e2fe4454af8ee018
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -378,6 +378,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 3d0477f4581837cbb6f909036c5f6a44d9290a91
+	branch = 9a31f9a9cb0d229b6e363026a7dbe43776eb61b9
 	path = zircon
 	url = ../zircon
