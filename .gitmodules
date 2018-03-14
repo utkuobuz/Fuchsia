@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 8c0a3e2164bbe2c1d3b2218dfe49afa115a93d7a
+	branch = e837c73996052771bea019bb6ac20a1b49868995
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 946d070be4e232900ffaac06b9ffb397f6d99718
+	branch = 7167b569a7e69ace8658ff4fc2f5bf1bd71b7384
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -52,7 +52,7 @@
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/external/github.com/catapult-project/catapult
 [submodule "third_party/cobalt"]
-	branch = 22dc9785960856e6c7af40206136abb0b24e9fe6
+	branch = eb0db6be33504835e5aa0f14ce7599c1f67ed087
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
@@ -252,7 +252,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
-	branch = b23615b1f0ba8f58dbdec565e1cea9f25451295d
+	branch = 5dda82552342e00dc8c94a58a65afad680679f73
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
@@ -378,6 +378,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = baa55d45d590ea281a93d587d39eda93cd7e6cec
+	branch = aab0e916a61cd9d74696b4298c33948c2f6759c1
 	path = zircon
 	url = ../zircon
