@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 57d0694bc7b9e718fb0b0c5849adafcac7fa4492
+	branch = ed65c10714451e840e707695bad96099e365add9
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = b07832671d7bd7194ad5eb63075f0ca41f6c8c78
+	branch = af1c950d15931bb128e34536cbabf69cf8e7b2d1
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -244,7 +244,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 3bc756cf5ade60451cdc140f3cd7065591962ec0
+	branch = 05fb5ab2763459bdcb5405ae8b26cf631ccf0aa0
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -374,6 +374,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 2129efa326720a45d1e86dd454151761323d1862
+	branch = 305f7acaf2fb306fc7f5f59733158e11004e66e3
 	path = zircon
 	url = ../zircon
