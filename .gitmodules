@@ -76,7 +76,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = f1ebe2bd5cfcb6b522e5b4fd406cdabb1a2d2091
+	branch = 77239ee1db52d5e3ed17da410786d3bfc0f3d70a
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
