@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = e7136b870ac524993ddddb44047b7a88157196f8
+	branch = 9efa263a9ad046e6b5d2a6e636541d76ed6bc86e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
