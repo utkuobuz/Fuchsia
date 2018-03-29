@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = bf2746ab411428f6e556dd1755b8eae6db5de6e9
+	branch = e33818b3be41e9728d0a291f8612feb5434f4a8b
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = b2cabf0396d9894b0af7d5dcda0ecd91325cbc09
+	branch = d0de2cbf2da61a97da75a0007e34873a65c3a2f3
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -116,7 +116,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 42633bc07231327d2613232fbca7f5879590a12e
+	branch = 46f6a2eef5a9b4915c5e3bbbf77bff987a26a600
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -244,7 +244,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 05fb5ab2763459bdcb5405ae8b26cf631ccf0aa0
+	branch = 9394a51bd195b093805c3fcc62139e85f81a8b6b
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -374,6 +374,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 0c2c81ed858b6cc5742aeae686ab0e18a65ace3d
+	branch = 7f144381c1493479762811d458c9557d341303eb
 	path = zircon
 	url = ../zircon
