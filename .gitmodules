@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 761b44de23e81a9cbfe6d34863284383b9cb8597
+	branch = 4fefab72db9a338b1392f22d9a6098710563cb7f
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = aa66cf5d4676f8cebe75f3c442f509b106225106
+	branch = d20fe56908df9233219b9d39bbf79a17b65922c2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -252,7 +252,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
-	branch = 30f8e2f7a7d80c4f20d6754c121ab0641f4c2727
+	branch = 6c8e502e18cd9a24325a423fbd2f0578945e8607
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
@@ -374,6 +374,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = db49f6e03c58be900981594c8e85e7222ad91dda
+	branch = bb96a7a168fc178f6f9f8dca4cefb22d3dcdb8a5
 	path = zircon
 	url = ../zircon
