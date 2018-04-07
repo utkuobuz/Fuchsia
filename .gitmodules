@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 1a403f37fe04bcbf6732fad1734994c619724a5f
+	branch = 5f54039e01b478672660c891548874397059bacb
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 027df31a0490f5bab7e8205ce50d6e9ae61b9fce
+	branch = e5f4bb05c73ad23be15724ac77184ab629231c0a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -52,7 +52,7 @@
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = 5196d5ff44668b780a4a449754fe10ff6d87e3e1
+	branch = c9924865a17db4dfba73dbdf84aec0fcc86c3476
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
@@ -96,7 +96,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = d6dd4e598e9b23029c2ac0c81e796314b234289d
+	branch = 0122d58426750a9cc0a6ce9e48cba33b903d5c96
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -116,7 +116,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 75ab922f90291de6935872a60f6fdff52443a40d
+	branch = 2b8360e4a23cba6890993eb140d52941d2c36678
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -244,7 +244,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 9394a51bd195b093805c3fcc62139e85f81a8b6b
+	branch = ed83450efc5720850f926d9b0a457a10860b32b1
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -252,7 +252,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
-	branch = 6c8e502e18cd9a24325a423fbd2f0578945e8607
+	branch = 7d9f264c872baf145b5bf48e5ba32faddb4db909
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
@@ -353,7 +353,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = 59aa7ed0be55f0b8674032aeb33cba57ef99a24a
+	branch = 17738036480c9d80267e46a6b2d0dd52ef432316
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -374,6 +374,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = b84da2aaead0da1e97bec3a1f1bd4355937e6691
+	branch = 2b318e1baf95dfee4cf5c97697b4c8b8ee046411
 	path = zircon
 	url = ../zircon
