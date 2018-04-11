@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 53df5c7e7439e6f0cf7b9b10b44cef4c61ddc010
+	branch = bed249adc98e00f55720060811523ad6ce470674
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 16f40a7479fdd83cb66ac7e4800042a6247fcd9c
+	branch = d80aec9fab95e0aa5e24f42a9034c95b8b870fce
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -35,7 +35,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = e27fe63dc4e88bf7b5ffa3e27c3fc8b3dcbc1807
+	branch = c69ebfb41cdbcc9bd6b7bfcdfe00a350b826b27f
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
@@ -321,7 +321,7 @@
 	path = third_party/rust-mirrors/xi-editor
 	url = ../third_party/xi-editor
 [submodule "third_party/sbase"]
-	branch = 8c63a02ac3c01c0383061c7c320f8944b2abd364
+	branch = 65e6e6592687767594450ef14cb934630bb46e4e
 	path = third_party/sbase
 	url = ../third_party/sbase
 [submodule "third_party/shaderc"]
@@ -374,6 +374,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = d14abb9e4f8f834cb85ce96fa4d3d589cdf4e33f
+	branch = d176fe6cb35ee458d180d821b75e4410bec7344f
 	path = zircon
 	url = ../zircon
