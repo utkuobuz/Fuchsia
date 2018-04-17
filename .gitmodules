@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = e4e6522853b87cac1670c1aeb95d5fb482985a5f
+	branch = c5b5b305c4fe8752661b8a6cdedb9b554db1aeac
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 69ed8649d3dc52b037581bc95cd5889af52d4b0d
+	branch = 2d4841ae946fa2b853d31c2f0707466fafaab952
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -357,7 +357,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = 924ddb043aa7ba8b4c93f8859d710b177fd5c76c
+	branch = d05307fc31c55d95c23c91738591f54572038157
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -378,6 +378,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 5b9fc97562c2165bbe733e00a27c9ed890a0e78f
+	branch = 42677229946b274c608e0bce674e9a6cf887ca8b
 	path = zircon
 	url = ../zircon
