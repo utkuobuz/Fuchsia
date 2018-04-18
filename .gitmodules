@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 52ca386bed3bc5b51db32c93076f08a4f3d83cd2
+	branch = e6272b26dc1e84d53c96ada44b1368a788bb2523
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 61c1c666a607c1a263538cf624b27c3f52cb1850
+	branch = faa12dad7d4881f6af4f6d565417092b96f4754e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -239,6 +239,10 @@
 	branch = master
 	path = third_party/libxml2
 	url = ../third_party/libxml2
+[submodule "third_party/llvm"]
+	branch = eea8107fac8b7780d6a31b1a416ac130e050139f
+	path = third_party/llvm
+	url = ../third_party/llvm
 [submodule "third_party/mako"]
 	branch = master
 	path = third_party/mako
