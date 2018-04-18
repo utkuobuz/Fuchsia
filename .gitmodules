@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 86ad998797af541937532a9fb86959edf34223e3
+	branch = 64e5206cb61ce43857a8a3666021af6972478b64
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 6d9ac0190a8a81230ca367bb73f2134944434ca1
+	branch = af37e34e156db37ce1ed61a497beddf4bc4c9de3
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -260,7 +260,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = master
+	branch = 810daa94bca2cccaa7435d39d458011cb6f20abe
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
