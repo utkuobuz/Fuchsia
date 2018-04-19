@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4c3145c6da88077898cfef56aa935ed971384185
+	branch = aa394450893bff889eeeedf39e882396fddbc1c5
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = fdad63062321f79e2bf70b425d99624fad47ad26
+	branch = eb85eeef414cf3083c59f06bee18bdf573cf763e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -344,6 +344,10 @@
 	branch = master
 	path = third_party/snappy
 	url = ../third_party/snappy
+[submodule "third_party/spirv-cross"]
+	branch = 3a8335eee078e3a5c06db8603c89f4f121ec5cfa
+	path = third_party/spirv-cross
+	url = ../third_party/spirv-cross
 [submodule "third_party/sqlite"]
 	branch = master
 	path = third_party/sqlite
@@ -382,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = a4dc05660f27662ae7c94e21e92487186f6793c2
+	branch = f932403dbab477ef30e48931329292c0525adf4e
 	path = zircon
 	url = ../zircon
