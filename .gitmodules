@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 31017fca0b223bcbf451c62305522c0e763c0c4d
+	branch = 86640bab2474d205aa415cb7fb48fd5fbab1ab57
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 1040074c9ba801618b461b1b28c9d01afdeabeed
+	branch = 240aed1c985992ed185bb92c35e91d16e52c80b8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -280,6 +280,10 @@
 	branch = c313f26117c367ebbdca66f82164ed798bfc2c20
 	path = third_party/protobuf
 	url = ../third_party/protobuf
+[submodule "third_party/python/mock"]
+	branch = master
+	path = third_party/python/mock
+	url = ../third_party/python/testing-cabal/mock
 [submodule "third_party/pytoml"]
 	branch = master
 	path = third_party/pytoml
@@ -386,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 0720d25c33bfc7c183ffbb2767fe35095eca8a8c
+	branch = edd6b35db6be0c2203a4cb4142fbf8a20980221a
 	path = zircon
 	url = ../zircon
