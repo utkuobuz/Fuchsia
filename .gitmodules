@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = b1a7f21343cb4a52b91504bebc672d3c9575f53f
+	branch = 971aa9911ea87d081edae863b2147a74ba3176c6
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 5a2deb007669aefc68b0f0be2550d17984f44636
+	branch = a0ba5a35e93630740774c5201b4c3f7db2395cc8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -120,7 +120,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = c7472ad00838afffe4e478659bbe953fa9cf9c8f
+	branch = 72f7edfaed794a443c2122b1cfc3b4bad19cfea5
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
