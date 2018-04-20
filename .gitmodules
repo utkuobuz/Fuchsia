@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = dc3d34a5c672333d9c95539bb06f1bf7bfe8f497
+	branch = 3b3708a9f724724f7a6082d39af9e7edd1af6da4
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = f37f83213933a1d2e41abba384df46c3dc8e92d8
+	branch = 2569a25f17be22649b8e9c5cba9dae1e46555719
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -252,7 +252,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = ed83450efc5720850f926d9b0a457a10860b32b1
+	branch = 5c26573b19f14b35a1c150bd626ee1e56f940829
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
