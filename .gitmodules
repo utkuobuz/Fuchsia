@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 0966d05b246b50059331b5d96ce9b254fa306b11
+	branch = 59ea9860c8513f15a4b53337e0d5c68ad0095db3
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 0978626ab2b7be6e6cebeafb220ad63362dc472d
+	branch = 1d98879bfcb27942f0ee0ca88e5f43098b2def80
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,7 +27,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = b3474d9d77de3b3b204a5e559cf645dbb5b93981
+	branch = 33e05babbc69b5bc1409d0d97da6ca7477735346
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -39,7 +39,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = 6f08dcfc16147e50b0fa759346833f99845d7b1d
+	branch = 0e04f56e9d3e18c29e4304c113dea0b17c9694da
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
@@ -52,7 +52,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 6fd1dbd39dacdb9e43c7cef4793ce5e97cc51ca1
+	branch = 0d6f84866778579e8d0f5a852857a36cc9bc2951
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 78ca936c020b370172371abb3df317e5b03e6202
+	branch = 36bf0a0667b53364abc6b4419fa14a8f4185d353
 	path = zircon
 	url = ../zircon
