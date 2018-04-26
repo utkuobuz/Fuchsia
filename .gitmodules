@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 29909c2358d7def210a381e8f3927d5e7d669af6
+	branch = 0008ae2bb928a5456c84fbce7d305dd91b4c2b47
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 468500d363f44c0a8e523d3951c9c66feb2d3961
+	branch = 1cd57484874f09a86764a7347932031b09d3b1af
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,7 +27,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = f827123d99457a294c3d9451fe3af69772f0bcc2
+	branch = 197d52949eeddc338d9e7315dc8f07de37eb90b8
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -52,7 +52,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = d43ffede2b5c91fd0d97b58447e3703052ab994c
+	branch = dc970d3e1f7b3da5a2849de70ff253acdb70148f
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -300,10 +300,6 @@
 	branch = master
 	path = third_party/re2
 	url = ../third_party/re2
-[submodule "third_party/root_certificates"]
-	branch = a4c7c6f23a664a37bc1b6f15a819e3f2a292791a
-	path = third_party/root_certificates
-	url = https://dart.googlesource.com/root_certificates
 [submodule "third_party/roughtime"]
 	branch = master
 	path = third_party/roughtime
@@ -390,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 13e51db33f3122aac1a8911475a4797f228be698
+	branch = 354cff62aff8d4d00180cbc15defc62d5f5e856c
 	path = zircon
 	url = ../zircon
