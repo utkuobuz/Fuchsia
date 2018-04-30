@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f85638bf9178e9e4d551d037d7ec78263a355f77
+	branch = 607e0706d3bf8afce32e5fa7339feecc1157d2c9
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = e1074ae32cbf3d7efab4d500b9d8d09541c6b971
+	branch = 51a5a0193a74490fdf83f92eb5d1e32f3b31ec91
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -52,7 +52,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 6761f26bd9da8e703b355ce1c81f8e37b77a9467
+	branch = 21bd95c9099fb74f24a03e036b12cec79c274006
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
