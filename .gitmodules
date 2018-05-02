@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = b157168df5cd4738d7c03598cfb1e7380026cc7a
+	branch = 307f1b26fb851cbf5d18aecd56cdf513f0e0b0fe
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 33f2d4b2954a43609983e9ba6cb8482a7c410071
+	branch = dfa13d4c63f5af644dbb1b72e6b7fc703e3fde2a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,7 +27,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 9aef36705b6653d61fee7e79dac188c279bff5ed
+	branch = ad3ae90a00f1c75ab97cb8f4283340d54aaaceb1
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -264,7 +264,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = 810daa94bca2cccaa7435d39d458011cb6f20abe
+	branch = ba54349d6011ab7751ded44266b1ae2ce13c5fec
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
