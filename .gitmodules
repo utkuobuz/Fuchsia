@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = e6557b876a386fbc9b9ea335120fc00226227f69
+	branch = a2206c253a3496b4a5ca3193d166a4f53e473f7f
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 8e5c13ba60a6c60ffdb60ced1cfa099efb29b041
+	branch = eb344e352feaaaf6d18d97a90279433826c08216
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,7 +27,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = c009255c79d2e6594a76cb88aeaa157ce99d4ea5
+	branch = de1c1db091aa9e974a9679541701fb12b148b18b
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -386,6 +386,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 5dfad3650f4d92ff0dc6499e5e327b297249c0a4
+	branch = 63081b5f53250200882f7fbd3e8d2181d3fc56ef
 	path = zircon
 	url = ../zircon
