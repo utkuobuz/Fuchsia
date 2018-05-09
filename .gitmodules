@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 60ea80fd700158a7bf8a751aadfc230018c0731f
+	branch = 908f7a6d5627589cfcb09f223aae4e217f67581d
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = 559c8d8911ce7fa0d6f7840cd61896be8de5a1f0
+	branch = 3f2f6aa657b64d17b35bece8c33cdbe29d6af113
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,7 +27,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = fa7503ca2b1a5932663cd48d201fa667f6aefc11
+	branch = 7348fc5b9e0d516d1df3f069e8c0b59f8c2f6902
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -365,7 +365,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = da170885065385cda807d7782a356ff7f5c6f839
+	branch = ae8aa1c4e396b2d9d27a141c5abfc9afb21d7386
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
