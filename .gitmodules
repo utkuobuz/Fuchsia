@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 3bf3144750788874e22cb3363f70cfcd507042bf
+	branch = 34472649b537b905bbc49bcbdb5c7f1d02f9c846
 	path = garnet
 	url = ../garnet
 [submodule "manifest"]
@@ -19,7 +19,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "peridot"]
-	branch = fb18573b544dd1763f60a86a68c601af55162bad
+	branch = a418d7aca6a416be56b3a4ff7eee6d5a96368a8f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -64,7 +64,7 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 177d56f7440715d0b0a107b3460074618a1f97f2
+	branch = 04b10a053d3f839577b54f1ab7e7cb16078c8f74
 	path = third_party/crashpad
 	url = ../third_party/crashpad
 [submodule "third_party/curl"]
@@ -352,6 +352,10 @@
 	branch = master
 	path = third_party/sqlite
 	url = ../third_party/sqlite
+[submodule "third_party/syzkaller"]
+	branch = b88872ba0e2ae9243628945e3ea2a3ae89a92bf7
+	path = third_party/syzkaller
+	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
 	branch = master
 	path = third_party/vboot_reference
