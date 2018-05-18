@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f4c28b4d3a5ecd54403dbb72f3de5b94150ba2ce
+	branch = 341a6e02a6813593745d70aae116d2d84fb3cafa
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 59ad7d3867999663a695198b61c75bb89f9e2ab3
+	branch = edaf57e7a93513ee9ed1c7f0dbadad3e94f2a4d0
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 8688bf46f1835dbe7fff4480350b1bc0ef02ff78
+	branch = dcda0e50631bc87a91ea3018bccff3f486c35ad1
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -48,7 +48,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 80510d3a729f173635229fbceba4c3d9a3697a0f
+	branch = 8af870bd21498809a11781f382b31ef916de317a
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -316,6 +316,10 @@
 	branch = master
 	path = third_party/rust-mirrors/rand
 	url = ../third_party/rust-mirrors/rand
+[submodule "third_party/rust-mirrors/rustyline"]
+	branch = master
+	path = third_party/rust-mirrors/rustyline
+	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/tokio-core"]
 	branch = master
 	path = third_party/rust-mirrors/tokio-core
@@ -386,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = f9013cbd25b5450aa7ebfa5aee2c949fe921797c
+	branch = 9452cd2908fac7a93968b59e9914deb0b318629c
 	path = zircon
 	url = ../zircon
