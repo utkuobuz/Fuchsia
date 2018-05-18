@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 333fafb8077b56a2318c021d411ec01501915f28
+	branch = f4c28b4d3a5ecd54403dbb72f3de5b94150ba2ce
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = aedfa1dfef7e85e5ee1c74ce560bce87d4c8d527
+	branch = 59ad7d3867999663a695198b61c75bb89f9e2ab3
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -48,7 +48,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 79268da8e7eb5c3bd561eca71eedf6d7e4c4f669
+	branch = 80510d3a729f173635229fbceba4c3d9a3697a0f
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
