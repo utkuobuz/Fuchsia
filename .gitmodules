@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f705d8405fbb96a58088253177a8429c859fcd39
+	branch = b70755f4f5bf2ca5d8d4dea3b54e4ca8151a2ea3
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 35cb135038a5a4237a05fcb930f5e0b54a022b55
+	branch = 93107c0cd86ef36a0f54244ffabb7fb8109edc5f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -240,7 +240,7 @@
 	path = third_party/llvm
 	url = ../third_party/llvm
 [submodule "third_party/mako"]
-	branch = master
+	branch = e6b41d232315660de544a7a692e58acddd2e612c
 	path = third_party/mako
 	url = ../third_party/mako
 [submodule "third_party/markupsafe"]
@@ -277,19 +277,19 @@
 	path = third_party/protobuf
 	url = ../third_party/protobuf
 [submodule "third_party/python/mock"]
-	branch = master
+	branch = 8c19ef6c95004524cb9f0b170a1aff6f47ade764
 	path = third_party/python/mock
 	url = ../third_party/python/testing-cabal/mock
 [submodule "third_party/pytoml"]
-	branch = master
+	branch = 8641351699f44401232786cd9f320ac373c3a02e
 	path = third_party/pytoml
 	url = ../third_party/pytoml
 [submodule "third_party/pyyaml"]
-	branch = master
+	branch = 7f118278ff09fc2deea32b429cffc38856bf6992
 	path = third_party/pyyaml
 	url = ../third_party/pyyaml
 [submodule "third_party/rapidjson"]
-	branch = 815fc9c85e9501b245b0a0f3c18fa7d809bc21ac
+	branch = fc692eaf62dfed2764f2e320591884dd55ca9d5f
 	path = third_party/rapidjson
 	url = ../third_party/rapidjson
 [submodule "third_party/re2"]
@@ -301,7 +301,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 90fcb33e18744c8fb2cc384020382adf90720c63
+	branch = b49c02d3c94353e43c771e069ecce043ce2d355e
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 599472b4bd2b1f1a01c2dc8e10e6e5717fee4ec7
+	branch = af8fd6138748bc11d31a5bde3303cdc19c7e04e9
 	path = zircon
 	url = ../zircon
