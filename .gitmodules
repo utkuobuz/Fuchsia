@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = b70755f4f5bf2ca5d8d4dea3b54e4ca8151a2ea3
+	branch = 45e31bba2264a79a0a1abe4db27ebeaa533d4436
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 93107c0cd86ef36a0f54244ffabb7fb8109edc5f
+	branch = 13a712f432c55085695d76a4a61a6533fe7fc958
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -180,7 +180,7 @@
 	path = third_party/golibs/github.com/tent/canonical-json-go
 	url = ../third_party/canonical-json-go
 [submodule "third_party/googleapis"]
-	branch = master
+	branch = a5e837ad4ef5b00eccfb93f2d97e8c52ad78bcbf
 	path = third_party/googleapis
 	url = ../third_party/googleapis
 [submodule "third_party/googletest"]
@@ -212,7 +212,7 @@
 	path = third_party/jinja2
 	url = ../third_party/jinja2
 [submodule "third_party/leveldb"]
-	branch = master
+	branch = 1242372f0edb4ff7bb0e242bd4274393c3c6a984
 	path = third_party/leveldb
 	url = ../third_party/leveldb
 [submodule "third_party/libc-tests"]
@@ -252,7 +252,7 @@
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
-	branch = master
+	branch = bb3a13cb4378fdafcf365521bca5b3a062b9d856
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
@@ -293,7 +293,7 @@
 	path = third_party/rapidjson
 	url = ../third_party/rapidjson
 [submodule "third_party/re2"]
-	branch = master
+	branch = c59cb1f7181a821b96116117c559533fdaee3360
 	path = third_party/re2
 	url = ../third_party/re2
 [submodule "third_party/roughtime"]
@@ -341,7 +341,7 @@
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
-	branch = master
+	branch = 624386507169716d08c3310e9d2852cee1b06d01
 	path = third_party/snappy
 	url = ../third_party/snappy
 [submodule "third_party/spirv-cross"]
