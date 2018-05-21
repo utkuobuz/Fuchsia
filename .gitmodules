@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 33f80c9411c031468ff59fa5c6b89742b9d117fe
+	branch = 3b3256a12ec8456eabb6a63eeab98fe135863c8f
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 471c7e59afef486ace5c1505e85fcbefe676ed22
+	branch = f597e0fb56fdadfe1afac784f0d0f2117b3de1d8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -27,11 +27,11 @@
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
-	branch = master
+	branch = b7b0aeca406bb60e981c20e6a9af1d0aae31fc48
 	path = third_party/asio
 	url = ../third_party/asio
 [submodule "third_party/benchmark"]
-	branch = master
+	branch = 21f1eb3fe269ea43eba862bf6b699cde46587ade
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
@@ -44,7 +44,7 @@
 	path = third_party/cairo
 	url = ../third_party/cairo
 [submodule "third_party/cares"]
-	branch = master
+	branch = 5dd7311f75417bb4882a4048c011fb0b14345a53
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
@@ -80,19 +80,19 @@
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
-	branch = master
+	branch = 66a4adc042f17bd113d3d940bcff46ec17c15f61
 	path = third_party/expat
 	url = ../third_party/expat
 [submodule "third_party/ffmpeg"]
-	branch = master
+	branch = 10baac319a85fb21540779d72c8aa2329222b12a
 	path = third_party/ffmpeg
 	url = ../third_party/ffmpeg
 [submodule "third_party/flatbuffers"]
-	branch = master
+	branch = f539331904a1f5f3e14f1fe7ccf767a40359c9d4
 	path = third_party/flatbuffers
 	url = ../third_party/flatbuffers
 [submodule "third_party/flite"]
-	branch = master
+	branch = 3fb3d1f9813a7d71641d3aa5d0a055abbb2b2ada
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
@@ -104,7 +104,7 @@
 	path = third_party/freetype2
 	url = ../third_party/freetype2
 [submodule "third_party/gflags"]
-	branch = master
+	branch = 90d1674de7ffc572267d9642d1a6436f168e80e7
 	path = third_party/gflags
 	url = ../third_party/gflags
 [submodule "third_party/glm"]
@@ -112,7 +112,7 @@
 	path = third_party/glm
 	url = https://chromium.googlesource.com/external/github.com/g-truc/glm
 [submodule "third_party/glog"]
-	branch = master
+	branch = fc4ff6b75c3f5a1678b47e1c2566fedc6c089dd0
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
@@ -120,63 +120,63 @@
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
-	branch = master
+	branch = c78caca803c95773f48a844d3dcab04b9bc4d6dd
 	path = third_party/golang/crypto
 	url = ../third_party/golang/crypto
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
-	branch = master
+	branch = 259d2a102b871d17f30e3cd9881a642961a1e486
 	path = third_party/golibs/github.com/dustin/go-humanize
 	url = ../third_party/go-humanize
 [submodule "third_party/golibs/github.com/flynn/go-docopt"]
-	branch = master
+	branch = f6dd2ebbb31e9721c860cf1faf5c944aa73e3844
 	path = third_party/golibs/github.com/flynn/go-docopt
 	url = ../third_party/go-docopt
 [submodule "third_party/golibs/github.com/flynn/go-tuf"]
-	branch = master
+	branch = ccc55922bf6167995aabc750be433b9f408fd572
 	path = third_party/golibs/github.com/flynn/go-tuf
 	url = ../third_party/go-tuf
 [submodule "third_party/golibs/github.com/go-yaml/yaml"]
-	branch = v2
+	branch = eb3733d160e74a9c7e442f435eb3bea458e1d19f
 	path = third_party/golibs/github.com/go-yaml/yaml
 	url = ../third_party/github.com/go-yaml/yaml
 [submodule "third_party/golibs/github.com/golang/glog"]
-	branch = master
+	branch = 23def4e6c14b4da8ac2ed8007337bc5eb5007998
 	path = third_party/golibs/github.com/golang/glog
 	url = ../third_party/golang/glog
 [submodule "third_party/golibs/github.com/golang/protobuf"]
-	branch = master
+	branch = 82b9a4b6ce577ceea38bd1c60d1d7a793eac6e9d
 	path = third_party/golibs/github.com/golang/protobuf
 	url = ../third_party/github.com/golang/protobuf
 [submodule "third_party/golibs/github.com/golang/snappy"]
-	branch = master
+	branch = 553a641470496b2327abcac10b36396bd98e45c9
 	path = third_party/golibs/github.com/golang/snappy
 	url = ../third_party/golang/snappy
 [submodule "third_party/golibs/github.com/google/go-cmp"]
-	branch = master
+	branch = 97aa668b73e764ccdd786bc3ccd2edffe621150e
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/subcommands"]
-	branch = master
+	branch = ce3d4cfc062faac7115d44e5befec8b5a08c3faa
 	path = third_party/golibs/github.com/google/subcommands
 	url = ../third_party/github.com/google/subcommands
 [submodule "third_party/golibs/github.com/kr/fs"]
-	branch = master
+	branch = 2788f0dbd16903de03cb8186e5c7d97b69ad387b
 	path = third_party/golibs/github.com/kr/fs
 	url = ../third_party/github.com/kr/fs
 [submodule "third_party/golibs/github.com/pkg/errors"]
-	branch = master
+	branch = c605e284fe17294bda444b34710735b29d1a9d90
 	path = third_party/golibs/github.com/pkg/errors
 	url = ../third_party/github.com/pkg/errors
 [submodule "third_party/golibs/github.com/pkg/sftp"]
-	branch = master
+	branch = 98203f5a8333288eb3163b7c667d4260fe1333e9
 	path = third_party/golibs/github.com/pkg/sftp
 	url = ../third_party/github.com/pkg/sftp
 [submodule "third_party/golibs/github.com/syndtr/goleveldb"]
-	branch = master
+	branch = 52ea2dd038a560e2a5a69403fb759ca8a8968257
 	path = third_party/golibs/github.com/syndtr/goleveldb
 	url = ../third_party/goleveldb
 [submodule "third_party/golibs/github.com/tent/canonical-json-go"]
-	branch = master
+	branch = 96e4ba3a7613a1216cbd1badca4efe382adea337
 	path = third_party/golibs/github.com/tent/canonical-json-go
 	url = ../third_party/canonical-json-go
 [submodule "third_party/googleapis"]
@@ -184,7 +184,7 @@
 	path = third_party/googleapis
 	url = ../third_party/googleapis
 [submodule "third_party/googletest"]
-	branch = master
+	branch = 00b760d1b5be88f2186e1fe37afa0accad9b5e8b
 	path = third_party/googletest
 	url = ../third_party/googletest
 [submodule "third_party/grpc"]
@@ -192,7 +192,7 @@
 	path = third_party/grpc
 	url = ../third_party/grpc
 [submodule "third_party/gtest"]
-	branch = master
+	branch = 6d7c114813d1623ff380965431db75069ede4139
 	path = third_party/gtest
 	url = ../third_party/gtest
 [submodule "third_party/harfbuzz"]
@@ -200,15 +200,15 @@
 	path = third_party/harfbuzz
 	url = ../third_party/harfbuzz
 [submodule "third_party/icu"]
-	branch = master
+	branch = 8894665e5662b64e05386efdbaedcbc6095ca970
 	path = third_party/icu
 	url = ../third_party/icu
 [submodule "third_party/iperf"]
-	branch = master
+	branch = 60a3d5ab0fbffb177b37e9a47dec57aba1de11ea
 	path = third_party/iperf
 	url = ../third_party/iperf
 [submodule "third_party/jinja2"]
-	branch = master
+	branch = ce94d60376c2ef59799915a44829311b2114d6c4
 	path = third_party/jinja2
 	url = ../third_party/jinja2
 [submodule "third_party/leveldb"]
@@ -216,7 +216,7 @@
 	path = third_party/leveldb
 	url = ../third_party/leveldb
 [submodule "third_party/libc-tests"]
-	branch = master
+	branch = f61897ea129c33a7d864696bf9d26e9af997ae29
 	path = third_party/libc-tests
 	url = ../libc-tests
 [submodule "third_party/libjpeg-turbo"]
@@ -244,7 +244,7 @@
 	path = third_party/mako
 	url = ../third_party/mako
 [submodule "third_party/markupsafe"]
-	branch = master
+	branch = 6c3df89fdae52c55994670427859f2ce33e92763
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
@@ -269,7 +269,7 @@
 	path = third_party/pixman
 	url = ../third_party/pixman
 [submodule "third_party/processor-trace"]
-	branch = master
+	branch = a94454c938a6552f34a285fa3c31a9d8d5cbb019
 	path = third_party/processor-trace
 	url = ../third_party/processor-trace
 [submodule "third_party/protobuf"]
@@ -297,7 +297,7 @@
 	path = third_party/re2
 	url = ../third_party/re2
 [submodule "third_party/roughtime"]
-	branch = master
+	branch = 1b87c453239eefdb2363eee5614f621e22d8c7fb
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
@@ -305,23 +305,23 @@
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
-	branch = master
+	branch = 8ca927be7c2b12b0d3e288183493c1079ccad1d4
 	path = third_party/rust-mirrors/cargo-vendor
 	url = ../third_party/cargo-vendor
 [submodule "third_party/rust-mirrors/mio"]
-	branch = master
+	branch = 5cea7de103fa23cdc4cb627f38fcc468650c4086
 	path = third_party/rust-mirrors/mio
 	url = ../third_party/mio
 [submodule "third_party/rust-mirrors/rand"]
-	branch = master
+	branch = 90bcc0d682d3527105e92dfbef8213058c700f96
 	path = third_party/rust-mirrors/rand
 	url = ../third_party/rust-mirrors/rand
 [submodule "third_party/rust-mirrors/rustyline"]
-	branch = master
+	branch = 47a8e516b93cdd04df2748bc705cdbd3ebcdd0ba
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/tokio-core"]
-	branch = master
+	branch = 868360fdc047561881d4979dbfbfadcdd70c9fe1
 	path = third_party/rust-mirrors/tokio-core
 	url = ../third_party/tokio-core
 [submodule "third_party/rust-mirrors/xi-editor"]
@@ -357,7 +357,7 @@
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
-	branch = master
+	branch = 57dd611f3cc47cc702627e912f4bb80d1c95d372
 	path = third_party/vboot_reference
 	url = ../third_party/vboot_reference
 [submodule "third_party/vim"]
@@ -365,7 +365,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = master
+	branch = 0b0bcc6588eca26b451e49d6a8769011fadcda18
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
@@ -378,11 +378,11 @@
 	path = third_party/webkit
 	url = ../third_party/webkit
 [submodule "third_party/yasm"]
-	branch = master
+	branch = edb428581932cfc87873aa44f4ff8b3a8c37bd09
 	path = third_party/yasm
 	url = ../third_party/yasm
 [submodule "third_party/zlib"]
-	branch = master
+	branch = f0b417f596815c67d7fbdf48faa2ce39dde0f672
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
