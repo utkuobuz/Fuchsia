@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 3b3256a12ec8456eabb6a63eeab98fe135863c8f
+	branch = 2ef7fc9f4103f80a19cb32edc5e6e3318d6fadeb
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = f597e0fb56fdadfe1afac784f0d0f2117b3de1d8
+	branch = 7dc8e18a253a9f69b74ab62f5c8e0c7233f93e01
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -48,7 +48,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 421df92ae3d4853247a09280144b1467f07d8f7d
+	branch = 9aa39596500b845c03f1dc75a91a916a21222a6b
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 94c462e2512177decfafc68816621ec66c83fd61
+	branch = 599472b4bd2b1f1a01c2dc8e10e6e5717fee4ec7
 	path = zircon
 	url = ../zircon
