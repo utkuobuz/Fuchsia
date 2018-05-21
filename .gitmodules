@@ -64,7 +64,7 @@
 	path = third_party/crashpad
 	url = ../third_party/crashpad
 [submodule "third_party/curl"]
-	branch = master
+	branch = 8b3d7e5dbce3607c7a735e9cd84b47da991fbbfd
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
@@ -72,7 +72,7 @@
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
-	branch = master
+	branch = 782e649a5c57dbfea2ac5de86e878653a9a38f92
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
@@ -100,7 +100,7 @@
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
-	branch = master
+	branch = bd6b6b9105f69808cbe50b5cde2775759eb0802d
 	path = third_party/freetype2
 	url = ../third_party/freetype2
 [submodule "third_party/gflags"]
@@ -196,7 +196,7 @@
 	path = third_party/gtest
 	url = ../third_party/gtest
 [submodule "third_party/harfbuzz"]
-	branch = master
+	branch = 2eed78c0bb5f2b12ace17d03cfa68b9f1535c85d
 	path = third_party/harfbuzz
 	url = ../third_party/harfbuzz
 [submodule "third_party/icu"]
@@ -220,19 +220,19 @@
 	path = third_party/libc-tests
 	url = ../libc-tests
 [submodule "third_party/libjpeg-turbo"]
-	branch = master
+	branch = 5bd412c6ff5b706336ae214b4511b6a5d3b8759a
 	path = third_party/libjpeg-turbo
 	url = ../third_party/libjpeg-turbo
 [submodule "third_party/libpng"]
-	branch = master
+	branch = e966646480f7cafc2905a2c78a299c3bfa1de4eb
 	path = third_party/libpng
 	url = ../third_party/libpng
 [submodule "third_party/libteken"]
-	branch = master
+	branch = b63e85f57ac893c53693decbe1558c33004a66b6
 	path = third_party/libteken
 	url = ../third_party/libteken
 [submodule "third_party/libxml2"]
-	branch = master
+	branch = 46bc5df64646302b9b0973460d029d6e799f4260
 	path = third_party/libxml2
 	url = ../third_party/libxml2
 [submodule "third_party/llvm"]
@@ -349,7 +349,7 @@
 	path = third_party/spirv-cross
 	url = ../third_party/spirv-cross
 [submodule "third_party/sqlite"]
-	branch = master
+	branch = 75a36fe49cdc4611348136918bc9c6de56d0dc73
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
