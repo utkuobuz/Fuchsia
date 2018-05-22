@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = master
+	branch = ac31f339ad16b517520b83f244bbc938ef28dd6c
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,19 +11,19 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 7eacc04b3a3ceae39e721e9fcb4bfdfcad10f64a
+	branch = 51daecd3a526a94f9c8a4a33cb0112725b3b4ab5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 012d5c2a99b983efcc6d4b794ed6e0d1964cb006
+	branch = 76f6ca3fcc1bdc1320ae2404306c0332449ff756
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = master
+	branch = 1750a30abb632e112896f5bea9361765b3e5b7d5
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 42cf958ce8fa5894ff6099106e19e90422386123
+	branch = 787338f9be51a554e28dfee157c39205a0b9f066
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -132,7 +132,7 @@
 	path = third_party/golibs/github.com/flynn/go-docopt
 	url = ../third_party/go-docopt
 [submodule "third_party/golibs/github.com/flynn/go-tuf"]
-	branch = ccc55922bf6167995aabc750be433b9f408fd572
+	branch = 9a90537f4958d10dcaabf34fb85628274e7de328
 	path = third_party/golibs/github.com/flynn/go-tuf
 	url = ../third_party/go-tuf
 [submodule "third_party/golibs/github.com/go-yaml/yaml"]
@@ -301,7 +301,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = b49c02d3c94353e43c771e069ecce043ce2d355e
+	branch = fbda2e687cee39825d3ee6ee6a2a718d5b4217a8
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 3d0feaa1a35e97b8228723ee17207132ef24faae
+	branch = a5efddbd2eac0a8fbd60e6e262006e4d170c3a00
 	path = zircon
 	url = ../zircon
