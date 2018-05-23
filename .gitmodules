@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = ea033591349f8a3e5d5f59054c1406f6d982eb68
+	branch = 2672ea02bfd640d7024483f697f6b78b14f640a7
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = fb4d312a7122d499b2915ba0ff264c2aba02cdaa
+	branch = bd2279524ebefa8025691ca2b68d89facb145b5e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 64ac5d9eb62e0ce9a784fef42e7cb5d9487d347e
+	branch = 31d3deb41a44a74f8c730484d9a36b886172dbb3
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -317,7 +317,7 @@
 	path = third_party/rust-mirrors/rand
 	url = ../third_party/rust-mirrors/rand
 [submodule "third_party/rust-mirrors/rustyline"]
-	branch = 47a8e516b93cdd04df2748bc705cdbd3ebcdd0ba
+	branch = 3b94c073fadb64e35a9ba6e7fe6b622b0c357771
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/tokio-core"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 582450419bd6fd707ced47c664c956e71d4907c1
+	branch = 92bbd970a440e97ece3a5130284da9796ef6ba4b
 	path = zircon
 	url = ../zircon
