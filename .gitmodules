@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 3325a92a6cf85225561e3e90da670de5a38a7a0d
+	branch = 28bfc3a44fc27df2648b64d7571a25d67fd5b774
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = baf12c12185d56e6890d5745e30f0e2cd8bc637a
+	branch = e90fcd04e03ab94a891f7fd7e05c7f686b53fdd6
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = ba16270867793da817417c722abe3a5d98d50fc0
+	branch = 450420b2d02f762955bc15bfde32fdc9d4e34804
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -301,7 +301,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = fbda2e687cee39825d3ee6ee6a2a718d5b4217a8
+	branch = 00ce4aa20b08fcb38feb3328cc04bf89e9f90af5
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 7d35c383b203786c3ba85d3efed107d7e1b96b1d
+	branch = a573855f4d9f75911a59b81756ef3cfe713f57e9
 	path = zircon
 	url = ../zircon
