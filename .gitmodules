@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 13ddf91adcd1b94f360a2d57c855316932bc8bfc
+	branch = 6ab59ec1ba76a2dcad6a56648b3f960c32a633ea
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = e709bfb009dfe5247bf9065baf029f3fb8183644
+	branch = d160feb90e393f1ff405aea47e14e7c79f7470ed
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,9 +60,9 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = f688cac5b97eb29264e6f539666fa8c78a2579d7
+	branch = 9839ef5605cf274f98ad6af8390a5077a6437808
 	path = third_party/crashpad
-	url = ../third_party/crashpad
+	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
 	branch = 8b3d7e5dbce3607c7a735e9cd84b47da991fbbfd
 	path = third_party/curl
