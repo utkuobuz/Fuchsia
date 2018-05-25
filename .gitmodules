@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 869b3199a639371518073b4aa504d89de67c5f29
+	branch = 1567ddf6e3b0cf660e19a8d7e3f0ecd0fccc77ff
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,19 +11,19 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 56572b37aca49ac24c8593ed387aa196777594dc
+	branch = 3325a92a6cf85225561e3e90da670de5a38a7a0d
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 9d2b01d54b2ab55970620dcf5e80c7a68031a22d
+	branch = baf12c12185d56e6890d5745e30f0e2cd8bc637a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 165a28520fd0e6b4cd0e774c47baa4e4a8a7860e
+	branch = a8181e48c3c86f0cc5b1d13897a31ea120cd0a4e
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 0f8aab8b5421ea1576769736e201cd5c90539b62
+	branch = ba16270867793da817417c722abe3a5d98d50fc0
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -48,7 +48,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 2a4c9a940f81265b2759184c745290285d606d28
+	branch = c785d94f10500ef2842bf5cdf14585487b1c13e4
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -248,7 +248,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = d163f463556d99ad8e1e6405af087b9364894d81
+	branch = b7a7ee4f1a377d69ec3d0913328a7ae8103c5d4c
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 6d6cbe124c158fb75dcf49959432a9dda4bb1b52
+	branch = 7d35c383b203786c3ba85d3efed107d7e1b96b1d
 	path = zircon
 	url = ../zircon
