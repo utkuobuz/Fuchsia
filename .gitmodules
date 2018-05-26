@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 1567ddf6e3b0cf660e19a8d7e3f0ecd0fccc77ff
+	branch = 283d69e4279e6363cd759ea91c3a2e28adc09e12
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 73ebc29f789a2812958f04282ed51ed17c271f66
+	branch = 06e96f7f41bb062cf256bd9456d6ca0b3f9a0af8
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 341d80ec363dfe211f9218d6086c008d3aad1ae3
+	branch = 4f4646e9db99687720f87c966ae1fe4887d6387b
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 83647e151167870a4b95c73dbd406bcf4f153368
+	branch = 0eec8b10c9490103a997b362d6e070f47fbf65c7
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
@@ -48,7 +48,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 393b0fd9c739013f278fe570afc9f96e6788b772
+	branch = 0111e13d0fe4b5d4bbafe40f2e651539bd37816c
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -60,7 +60,7 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 9839ef5605cf274f98ad6af8390a5077a6437808
+	branch = 3033802ed4ad78c343b85f3b5b1c22762c66e976
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
@@ -76,7 +76,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 97b6c2e09d6532eeb622d85f23109f3f3b6d2b61
+	branch = 57d256377c7ec99ada943cd2c8e5855557ea2405
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
@@ -260,7 +260,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = ba54349d6011ab7751ded44266b1ae2ce13c5fec
+	branch = 83479ea601ed5743622dbf3aaa1d750d39ee8223
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -301,7 +301,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 00ce4aa20b08fcb38feb3328cc04bf89e9f90af5
+	branch = c18aa40e076a735076fa2815d1505d645a96e20d
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -353,7 +353,7 @@
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
-	branch = b88872ba0e2ae9243628945e3ea2a3ae89a92bf7
+	branch = 6a93ca61dfee6289292edea763b14e531cbcefd2
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 1f8851c18d3ddacda95d8b8e56f35c88b7a0904a
+	branch = c7d593f3417cc911fc71e7646e32fe354291dae9
 	path = zircon
 	url = ../zircon
