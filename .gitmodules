@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = cf5beebe766f4ee8314aa895566eed75e546b6c4
+	branch = 430ea3956f154db3f3ad47049c912fb78b4bc5b6
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 405a42808c8ca447c366a8c1935886a218d10cd8
+	branch = ec03a988f678b2869e2c5e187f8958b543815c07
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = dc0daf8bd9d30848b6e804bb275c567953213407
+	branch = 5dca651f1afb3b666de5046f4c434034a00f4828
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -132,7 +132,7 @@
 	path = third_party/golibs/github.com/flynn/go-docopt
 	url = ../third_party/go-docopt
 [submodule "third_party/golibs/github.com/flynn/go-tuf"]
-	branch = 9a90537f4958d10dcaabf34fb85628274e7de328
+	branch = 17fe7131b429f3f6144c0ee91f2f0c4cebc779ca
 	path = third_party/golibs/github.com/flynn/go-tuf
 	url = ../third_party/go-tuf
 [submodule "third_party/golibs/github.com/go-yaml/yaml"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 07e64b84b3066a74234e39e08d6224b963b82dce
+	branch = 35b1963a3090c690cadcb8c1670b541751fb2b28
 	path = zircon
 	url = ../zircon
