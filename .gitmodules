@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4c1eb1973634bb21621457307e5f261c7c3e10f4
+	branch = 3bec81f127eff75775ca8e795ed658f99ca7cc7e
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = ac2b7847d1423e42f2937e4ec3b1f47ec0a2466e
+	branch = 09236606d034aa0aa4941b0679c15f10592547e6
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -248,7 +248,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = b7a7ee4f1a377d69ec3d0913328a7ae8103c5d4c
+	branch = 8daccbac6f710bc19d4b3d52316b8ea31df0a637
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
