@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 2b9fe25d8ac0c884107a09cb2bf9db7c813a2b69
+	branch = 10b1fa91ebdb5169f9f1fa5fa5b66c5ada7285fc
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6e6010c296cec1ae42f69397fa3ad347b5ef65b5
+	branch = 5c1bd5d705b3a2123f7360257c9abd1b21a8f657
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = fafef1282100264c07798a2e0628c644ce473516
+	branch = b3ffd36d642b43bb8537c0ab2f2c635da0ffe828
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 78ee3423ddcb6a9cee52139803cd99b1ea4c0290
+	branch = 1da467747b86cf88ac811fc6964b8adf502aab2c
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
