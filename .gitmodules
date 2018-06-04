@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 00ee8bf4034a6e5dd59575aa118778b55a5107f1
+	branch = 11be87346cdb8eb6099f13650a39b2ff8630e544
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = ec7458b439fa886f3ba148264bd488312c64dacd
+	branch = f7868e4be2d28bab1f4598a9065ce96214e27cd4
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
-	branch = 7921662045409ce4eed5016f3642a51e32400c3a
+	branch = 16fdde1345460d598e531c6724fda3f3a726b650
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -256,7 +256,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
-	branch = 7d9f264c872baf145b5bf48e5ba32faddb4db909
+	branch = 7120fac20a0811e662e74d6c209052966beae6d4
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
@@ -390,6 +390,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 8a08e4fea9aa08b5bfdc9cb3e0c237c1122a8d0f
+	branch = 69a69a938bd46584c83d2783f7ba0b037c57c660
 	path = zircon
 	url = ../zircon
