@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 5a8d4374db02c1268fd218d86997855f49052bc2
+	branch = 6168599d957437af472289fdff00b53b5d742479
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 992d914980645caec806af0022dc0e0bdf77cdf2
+	branch = 11167e8ff5dd62127ce223cea0c9d2606c0d1bc9
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 84cb192c15d01a6e3470f6e10ad76116fef79494
+	branch = f50c2e225e4659c8e13d36f1e89ee5781a3e8ab4
 	path = scripts
 	url = ../scripts
 [submodule "third_party/angle"]
