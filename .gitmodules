@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 0516fd19086012b233021b12a8fe413f921d51f1
+	branch = d721fac3e5b193b95a23ac436b1e910333834bca
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 2b9062c56db0f3826c1a4713648ba5c08a73aeef
+	branch = 0ef3913a58de1a3ff59e3aa2827a5a5eab0dfee5
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -301,7 +301,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 599f8ec830e59a95986e044295fb2a5cf188f1d6
+	branch = 76fb502ee1d5ac372589e7593558e2d156b9d904
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
