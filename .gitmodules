@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 275a47ac7025c4361d73fb13994166d03279c60a
+	branch = 8c3eb9a2f7196657e4c1591d58294f65575f9c6e
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 6e0b420b50002ec7b171efd414c50f41aa0a3d0b
+	branch = cc96488228805b521702ff96f76b9ac09cbfd175
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -92,7 +92,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = a5e41681e55d1e74684bfff530218db556d77ee8
+	branch = 9672d69a0691ef66a4b554537e26c8c0f95fcbe6
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/expat"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 91f7a080883d5da947cc08a4dcd0d286e56d7dd5
+	branch = 3304b8b489be218be1b4c578638fb921783ac542
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -276,7 +276,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = 83479ea601ed5743622dbf3aaa1d750d39ee8223
+	branch = 539314429b59eac392d640acc3f3245de56c5b1d
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -381,11 +381,11 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = 0b0bcc6588eca26b451e49d6a8769011fadcda18
+	branch = 91152294f8cae38b96a1bd9074ca308f30b3b6ae
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = ae8aa1c4e396b2d9d27a141c5abfc9afb21d7386
+	branch = f8fa14623eab00dd97aa8c88071a166dededc69f
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -406,6 +406,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = c06f4654a89f48bbb3430e7b1f2c7e9948ab5cf7
+	branch = 379f22fa2bc6ceca99ef5d142c1c542186aadceb
 	path = zircon
 	url = ../zircon
