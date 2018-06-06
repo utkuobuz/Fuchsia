@@ -11,19 +11,35 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 47a17b583affa7a66d14da66662bd875d491fc44
+	branch = 113f3dab3b6c7825c62981fa50ded816264f143d
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = c2c47f5aaece958c9b52c47411b427b18b105ef9
+	branch = 79e944a4be3203240de2836400cd055addea4162
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 2e38b17c739722253c970377edcb831e45f8708b
+	branch = 2a52c1b0558b7f8489657695c9eb8f8fe4f2bf2d
 	path = scripts
 	url = ../scripts
+[submodule "third_party/android/platform/external/aac"]
+	branch = a3e0aa5f25908d92535e045bbde73c9a3d19adc7
+	path = third_party/android/platform/external/aac
+	url = ../third_party/android/platform/external/aac
+[submodule "third_party/android/platform/frameworks/av"]
+	branch = d31b6e37f0b04a19ce084ffd60cd1c210241d24b
+	path = third_party/android/platform/frameworks/av
+	url = ../third_party/android/platform/frameworks/av
+[submodule "third_party/android/platform/frameworks/native"]
+	branch = 266790e13c68c0cf6b9ef7dde14034619ed74916
+	path = third_party/android/platform/frameworks/native
+	url = ../third_party/android/platform/frameworks/native
+[submodule "third_party/android/platform/system/core"]
+	branch = 5e041a4f45c72e1f2c283af21a40880fbb938d26
+	path = third_party/android/platform/system/core
+	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = 7ba3f425c45bab14c0fb2657355598215771b936
+	branch = 021134691e64915e0c6ac00b0a06e5d05cd49618
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -301,7 +317,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 76fb502ee1d5ac372589e7593558e2d156b9d904
+	branch = c7bb35e183541c1b0362861f16d0d7eb8a43358b
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -390,6 +406,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = efa725b870ffbc281ac9c23f15eac119cc937f48
+	branch = c06f4654a89f48bbb3430e7b1f2c7e9948ab5cf7
 	path = zircon
 	url = ../zircon
