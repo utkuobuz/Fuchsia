@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 1ec46b2383ae8a1108c04d5be05917942dbb5f5f
+	branch = c6e28c99a93a8cf5177e698bd3d9446a79f24712
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 34f932c405dc7375531adec5efbff264c6a75aa2
+	branch = 0456b9cd5f0ae90354f6e28f49778f58907db884
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 09f4f6b7c360b9d8ed84b49f1d0c79e643ef5294
+	branch = a2f1d287435c15d8f3369339fad647226e0dfdc1
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 5d69fe2641f1a4dc1abeb1a59020d16ea773cd3f
+	branch = a9f8e00130af679db34f6c6e22f6857b298645e1
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -264,7 +264,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 8daccbac6f710bc19d4b3d52316b8ea31df0a637
+	branch = 0df237e41d4fc839e2dfdf0356bd58279198572c
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -406,6 +406,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = bb9e3313f08e01a9e8f090b09df2306146e80329
+	branch = 0f3ba4fda0105e7e1eba649bd9010dc40bcf33e0
 	path = zircon
 	url = ../zircon
