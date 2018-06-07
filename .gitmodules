@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = c6e28c99a93a8cf5177e698bd3d9446a79f24712
+	branch = cbd048c060203b1cdf361245f0257c8131ddd14b
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4d72a71d96216c0eb725e09e77ae94e0ee0d497a
+	branch = 9e33fe4e90a67618833a67025c6d6b79b3ff8134
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = efb927c0cad27562f7be259728b7083459d09ec7
+	branch = 0ba625b2d11ce1ad3fc826198f1f7d535d04295b
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = a9f8e00130af679db34f6c6e22f6857b298645e1
+	branch = 3349ee3e5a82c0b56130188e33e33ffb46e08c1c
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = ea17575d03632c176780c96953f176055d5f4fa2
+	branch = 74be296b0cc514b5a18e1cbd28f2621c34aab3ea
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
