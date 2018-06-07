@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 8f64a9c0bab76b35f37afe73f859b0baab48f815
+	branch = d94f32336c013f72df02289a706ae82d16d808d0
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = f8faee9e964fa4e2c8775412661f6ad0d7b22ed8
+	branch = 12b12fe94c71cf04a39201a63d2edca73a7f8ea8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = 74be296b0cc514b5a18e1cbd28f2621c34aab3ea
+	branch = e1a057e8aa64274f15fa95e282f7b85e9b45365f
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -187,6 +187,10 @@
 	branch = 98203f5a8333288eb3163b7c667d4260fe1333e9
 	path = third_party/golibs/github.com/pkg/sftp
 	url = ../third_party/github.com/pkg/sftp
+[submodule "third_party/golibs/github.com/rjw57/oauth2device"]
+	branch = b258d5df36ce010053017146a79f287d8a31e874
+	path = third_party/golibs/github.com/rjw57/oauth2device
+	url = ../third_party/github.com/rjw57/oauth2device
 [submodule "third_party/golibs/github.com/syndtr/goleveldb"]
 	branch = 52ea2dd038a560e2a5a69403fb759ca8a8968257
 	path = third_party/golibs/github.com/syndtr/goleveldb
@@ -195,6 +199,14 @@
 	branch = 96e4ba3a7613a1216cbd1badca4efe382adea337
 	path = third_party/golibs/github.com/tent/canonical-json-go
 	url = ../third_party/canonical-json-go
+[submodule "third_party/golibs/golang.org/x/net"]
+	branch = a04bdaca5b32abe1c069418fb7088ae607de5bd0
+	path = third_party/golibs/golang.org/x/net
+	url = ../third_party/golang.org/x/net
+[submodule "third_party/golibs/golang.org/x/oauth2"]
+	branch = bb50c06baba3d0c76f9d125c0719093e315b5b44
+	path = third_party/golibs/golang.org/x/oauth2
+	url = ../third_party/golang.org/x/oauth2
 [submodule "third_party/googleapis"]
 	branch = a5e837ad4ef5b00eccfb93f2d97e8c52ad78bcbf
 	path = third_party/googleapis
@@ -369,7 +381,7 @@
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
-	branch = 6a93ca61dfee6289292edea763b14e531cbcefd2
+	branch = 1b7c2ca3f9973abdb15446a42187ccff37d3e308
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
@@ -406,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 92773b9b429390e91c5d36b6b99dedbdd37aedd4
+	branch = 9a0e87c3e7081f8049fadd16bfedd07b2232643a
 	path = zircon
 	url = ../zircon
