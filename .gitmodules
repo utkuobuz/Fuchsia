@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 53ab984a6328ba59ae9b48fb3b454068ccd96bc6
+	branch = e0ed947da4f83ff947c09393aee38df83c901383
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 475de8abf0060fcf5cbe177da27c82d4c3d50218
+	branch = 349d3f84fec0a67ea531ba3c9af8f4e6dc7b5dca
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 48a216552133e538ef771a88bfb250af6611f0d6
+	branch = 9cc6128e7272e798b48e8b2c97d603fb310facac
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 3349ee3e5a82c0b56130188e33e33ffb46e08c1c
+	branch = ce3a1403adf3ba631a825b0053cabbe27ec48d0e
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
