@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 428b5e45a981121d6ff7256620d47668f053599c
+	branch = 1e8d891e367abfcb294819288681ab69215df1b0
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 1281aa97a2741cb904622ac07d3586b8bdc61f8a
+	branch = 2c7538beef7edbcf0844c35983f99b3e90800c31
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 5affbb1805bf0a41a32f297b6216b850fca5412f
+	branch = 959c290ac506cfd8d32720fd7eb19080ed26a256
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -95,6 +95,10 @@
 	branch = 9672d69a0691ef66a4b554537e26c8c0f95fcbe6
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
+[submodule "third_party/etnaviv_gpu_tests"]
+	branch = 58d012cde0de66c2b883b91ded3c8fc6534cd8d1
+	path = third_party/etnaviv_gpu_tests
+	url = ../third_party/etnaviv_gpu_tests
 [submodule "third_party/expat"]
 	branch = 66a4adc042f17bd113d3d940bcff46ec17c15f61
 	path = third_party/expat
@@ -418,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = d5ff594fb13bea7ad6bfa6e19c1b1070c0397863
+	branch = 84003bd55f4de557f090f2ff76094241fdb45f33
 	path = zircon
 	url = ../zircon
