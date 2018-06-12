@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = bd610392b95a23915c0e6595b3912eb12c69e2fd
+	branch = 9907f09f449cb2d401c27805db3bbaadfe961a68
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = a74e7d78a37c60eb606aa740aa5dbba04e7e07a6
+	branch = ad4b510753d93f54ecdd5bf6b6e718f721ac1cf9
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = f9a53f7b1bd4f6d3f6629688ea7af758746b9035
+	branch = 3a1f7bbe846c87f3881b16ac459c84aeae6f50d2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = e18b814797b8f0033f68a5cddd9ac78b88a1604a
+	branch = aaca96eedc7cf734ee5f07369a2f785d97dcd996
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -51,7 +51,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = a1344d62b1fc9019cb3b80c2d1b7fa52bb9384a9
+	branch = ba934feda7be1c3a46842878cac491f3a149602a
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
