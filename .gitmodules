@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = ad4b510753d93f54ecdd5bf6b6e718f721ac1cf9
+	branch = c00ac21826d4d2db55b524ef6de50a6ed92ae945
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 3a1f7bbe846c87f3881b16ac459c84aeae6f50d2
+	branch = ffdc5caa035d97062581ddfa66ce7f401ba0e280
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = aaca96eedc7cf734ee5f07369a2f785d97dcd996
+	branch = 7ce4a15115cba8e52d243131fb4aac06115fbcfd
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -92,7 +92,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 9672d69a0691ef66a4b554537e26c8c0f95fcbe6
+	branch = 0d6fe9680acf30a863df9badb2ecd4fa9f16c9bf
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/etnaviv_gpu_tests"]
@@ -329,7 +329,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = c7bb35e183541c1b0362861f16d0d7eb8a43358b
+	branch = 8311428ca3532b7172db666a7f53f1ef8c1ed289
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = b2ca0f125042d9689d74aeb84b1234d13f6f3e04
+	branch = b6b5b05d278e70fd5554102bdaccf976e29dde7c
 	path = zircon
 	url = ../zircon
