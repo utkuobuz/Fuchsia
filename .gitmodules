@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = a3e106906ada77a9e7bfa978dc7445f324e03035
+	branch = fc160c8eb40a4f861282d0d21693b3a2cf64df9d
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 672635920d0d9f5a101301e3e94797c76ddb0555
+	branch = a1d116e9a89d1342a95e47e6b7fa14dc798be5fa
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -103,10 +103,6 @@
 	branch = 66a4adc042f17bd113d3d940bcff46ec17c15f61
 	path = third_party/expat
 	url = ../third_party/expat
-[submodule "third_party/ffmpeg"]
-	branch = 10baac319a85fb21540779d72c8aa2329222b12a
-	path = third_party/ffmpeg
-	url = ../third_party/ffmpeg
 [submodule "third_party/flatbuffers"]
 	branch = f539331904a1f5f3e14f1fe7ccf767a40359c9d4
 	path = third_party/flatbuffers
@@ -422,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 4e156262b9e3e6a736cddab9c25c6bdba1a80c7b
+	branch = aded3943247f86f74ae1aa884c639687202ae247
 	path = zircon
 	url = ../zircon
