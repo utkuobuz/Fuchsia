@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 51c3b042dcfc8bfc8ba15296fb6433b297e2d565
+	branch = 303a608c3fb1a85049d979b1cd01dc73915f0d7a
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 4c644c553690120a88727fd0ed5c26e9f280eaca
+	branch = 9ff431606f7ba1e464e49c44db01652c8a4c9527
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 91e62a7934f86b176b4f56ebc617d5dcb8bedda6
+	branch = e04a589c4fa1da88b21189ed5c126217d3c285d0
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -288,7 +288,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = 539314429b59eac392d640acc3f3245de56c5b1d
+	branch = 9760683b0c33d2e2943f7565137f53ba2a00755d
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -357,7 +357,7 @@
 	path = third_party/rust-mirrors/xi-editor
 	url = ../third_party/xi-editor
 [submodule "third_party/sbase"]
-	branch = 65e6e6592687767594450ef14cb934630bb46e4e
+	branch = 1a8d14e4550a2f45291f299d3e4124eef03feb76
 	path = third_party/sbase
 	url = ../third_party/sbase
 [submodule "third_party/shaderc"]
