@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d8f04c576c6cea415fbe57cdc84ccb8fc12b0646
+	branch = dde4ad61d1dff42149b2d3f93a042626e8ec0e99
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 00ac2f71bad0818e4b3c3991c2ee7100a1cd9297
+	branch = 38071a9ba84af8b89b066f0030fd3f193d33dfbb
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -288,7 +288,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = 9760683b0c33d2e2943f7565137f53ba2a00755d
+	branch = 773c325478c16eec0033a8c036013061ca5c19bb
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 3b6db2332c8562afaf5f6ef9c70e3f0cdca63aef
+	branch = c2cb71d6a04874870d4af9c973ab17f5e7a6658f
 	path = zircon
 	url = ../zircon
