@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 2a974b676bbfb347c2d2359adbc221a86b42e192
+	branch = d642b28f24516e93241c4a01ebe891741399d1bf
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 1eee229b9eb81b027c5708913e992c6271627111
+	branch = 518faf91d52d9d04f8b6ba3d6c51f7bd71eb8c67
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = f5557accff71f08c2f6c2348041f03501ca81506
+	branch = 388f991ce84058e5a44208e182d9b6d5ffbaf9b5
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = d994c86437440be2d186020de6d373bc2384b547
+	branch = f13bae2df0b82e06b4c7cf9b1ccaf5cee89c0c88
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = b69b5ca49b946f985b33014bf0a021c2a220d904
+	branch = 8f379b40a0dedbf10e70b23caa07c89130c0507b
 	path = zircon
 	url = ../zircon
