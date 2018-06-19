@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = c4890ab6c188d83eb4d0394d4adaf9bd8937bd9a
+	branch = 2f8417fedff20ea13073b255349a997b7df5d2b2
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = f48cfd63b7fe7cc9fa2cf7b9ace2b4faeebef96a
+	branch = 180185a55666986bbd3a42f40d48abbf5547338d
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -39,7 +39,7 @@
 	path = third_party/android/platform/system/core
 	url = ../third_party/android/platform/system/core
 [submodule "third_party/angle"]
-	branch = d3ab30785b52c7dc5c984545662214cd56ec3519
+	branch = 1c3a94aa898efc3464956b58a1a5afd63f3d6a0a
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle
 [submodule "third_party/asio"]
@@ -72,7 +72,7 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = 6bd26b320a059b808733cf8db4ee712b09dba052
+	branch = c6d9ede885cd6a1d0419be8f598438e1ce76228b
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 488c5327a4adc934abbda7310b2da2643dc52b9f
+	branch = 47ee44f5c1e88d97ee6650e3522cb88723fe16a7
 	path = zircon
 	url = ../zircon
