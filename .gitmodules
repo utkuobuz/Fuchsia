@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 9c2489967e59e6a25773c7174cadaf41ac6bc5c1
+	branch = 3bad298a9da03ff66d1aa3386f2bf5a2391c91fa
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 385deb47c2f2f43817be936922a1e0297a9b1ef7
+	branch = 731337777f48c418f10c8bace4d1549b9cff4101
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -397,7 +397,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = f8fa14623eab00dd97aa8c88071a166dededc69f
+	branch = 46f8890b781138f6d37fec565ee5268970ae0809
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
