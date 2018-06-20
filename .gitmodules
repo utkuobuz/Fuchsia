@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 9672340898a9ab11b371cd37325001bdb315c9fb
+	branch = 186ff40c05b4e76538cc6a84d8434e460b83bff7
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = e29768ccf55073ea762514c305953f5c8181ec69
+	branch = 99fe4062111edd03f000320e6097f2599a1d66f0
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 729caead8d2be833f65984ac081e1b6a27447ba0
+	branch = c6c554304e6d268f34ed510a36e77071830352cc
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golang/crypto"]
@@ -329,7 +329,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 8311428ca3532b7172db666a7f53f1ef8c1ed289
+	branch = a77901b9c846dfb91dd86b229ca8d67f3a4d8da9
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
