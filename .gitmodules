@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f2b2e19b5b5276f48b04829486c2d95f2d289192
+	branch = 88827666931a8e6612f8399142873985f5d75b63
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 5014eef15e0e61b550fa6864bd873baa5bfef7dd
+	branch = 8121021950d7842c3b0d5cb7478ecc2d6b8c2cda
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 7d423fc5614bf9265b1c84005c62d64f554d00a5
+	branch = 8d2c28ec7666a034afe50a59f862ea94cef42d9a
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -377,7 +377,7 @@
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
-	branch = 1b7c2ca3f9973abdb15446a42187ccff37d3e308
+	branch = f618e0a94bb6cb44b9dda3439af9da822a04c958
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 2bd03c383941cee2414e35cb40884c92aa6e15f8
+	branch = de731d858590f177755f2f0f028b3ed957101416
 	path = zircon
 	url = ../zircon
