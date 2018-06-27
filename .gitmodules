@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = be9beffb6b143a499915dce11b73929413f2fb4a
+	branch = db69daff3eb9f54d1481dbbf33d2960671b9d2b2
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 84c00e04f9c89b04d72fe0b69f85510f4c449e7e
+	branch = cedc498e8424ab734a20a00081de24bd735627a0
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
