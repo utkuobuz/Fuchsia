@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 9888db1166f5ee8b0ebad78c059dadd69281aa0c
+	branch = be9beffb6b143a499915dce11b73929413f2fb4a
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 86a45e70d865964ff3e781458499c67a9c9aaaf7
+	branch = 84c00e04f9c89b04d72fe0b69f85510f4c449e7e
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = e6a94d928ede5e4e67144645daeaf89e3367b5cc
+	branch = 05e1b14bd3029dc4651f519d095dbffba17b2cf4
 	path = zircon
 	url = ../zircon
