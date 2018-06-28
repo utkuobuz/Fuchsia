@@ -1,9 +1,9 @@
 [submodule "build"]
-	branch = 02a5a6cf6f6e33bc1fca887c46583d523a8ab514
+	branch = cec64ecd53ebdd78c4f172021a75822d9f28795e
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = master
+	branch = 95163d6fa37b91eb91e15d353d95a1dcd3434aca
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4588917a6f3f4487d503623d17a2eb75586e63ef
+	branch = 5d399a11ad14d6968747e066bfe6e969612d6fae
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = ee2baa5c78a07e7baa59d4194bb31bcff862a858
+	branch = ecf1e3541f04db862c0c8b0361121eec9fadce8c
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 8b52973effb803a24b69d4d614426855c4a1c88d
+	branch = d96c633790000d036c5bbcf943d2c4f1f06d9820
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -284,7 +284,7 @@
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
-	branch = 773c325478c16eec0033a8c036013061ca5c19bb
+	branch = 961fd14159e8bde1185388dcf4bb240a7fa49841
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -406,7 +406,7 @@
 	path = third_party/yasm
 	url = ../third_party/yasm
 [submodule "third_party/zlib"]
-	branch = f0b417f596815c67d7fbdf48faa2ce39dde0f672
+	branch = 5a6d2ed866da7e104c6e79fc2f2a9d5e0738cb98
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 50fbb1100548dc716d72abd4024461a85f5c8eb8
+	branch = 5a9031772c931983f1255ac53d5f2ba8487cf4d7
 	path = zircon
 	url = ../zircon
