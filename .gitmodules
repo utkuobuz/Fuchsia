@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d9c7d05b498893cf5ea5329d810d611a1ff97f7d
+	branch = 012a13bbb10602569796cf67af050ffa1d9ec064
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 48f7375d1c79f06130e9127252d11d2b7c58062a
+	branch = f89153fd463a4b2f180aca35b1ca1f33eb027806
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 89b78185add12c0865c4743545a6d52e017a2530
+	branch = 7ddf0ed7f7710a86828c61eae049b2f9e10fd376
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -272,7 +272,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 1465ff97613d836203d619504b9a299262a3d644
+	branch = 21602aa6ba545baeaca0783cef4c38442debd1f5
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 7062154cfbbf8c57a1696467585884d99ab8d542
+	branch = f6e7f694b41a381e05f9c1bbe617a00ea2cf94ef
 	path = zircon
 	url = ../zircon
