@@ -80,7 +80,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 06f63aaa5a98c0df72e99b860f9e1eb9593bb07b
+	branch = c34daae2d6bd7d7f3a349bf80afc440248ed9dea
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
