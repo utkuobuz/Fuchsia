@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 35b885dd0a492c250c6774c23ac00fdaa72c4d51
+	branch = 3c9edb3423ee64763cb23aa071e8827ce51daf99
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 30308243075a56a7f37087e8766c09a4d57a3a85
+	branch = fe8b9a696f5d82f365c7af943872f9087ac4a9e4
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 7cecf0d44068c8a8f0864f5f8452f101fdd3b3c3
+	branch = ed6e85e29577a2e029ebe1d3c122541571515153
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -272,7 +272,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 21602aa6ba545baeaca0783cef4c38442debd1f5
+	branch = 79ab7c150898fb3c079b3127e21b7ee93bcb2039
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = f44de87539c27f2ad0a1ce74457f18fe9e39d236
+	branch = 3875b2ffbe17b4650591191c1077af2565fab851
 	path = zircon
 	url = ../zircon
