@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 79e9925d2efa897ecc00d4828d5ac14badb3b392
+	branch = d95970ccb8ed8ba9767b57bd4a1203db3cb279cc
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 7a0e28585065bdc72f788f2af8dfb8e63d201399
+	branch = 98c78705f2c8751d578f9c238fbf1794f7ac14b2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 1d12e8c4941661c0c23b38b34944d441375ffae1
+	branch = 8b4a8b0bed5688d9bf1c726c209be2b1f72820f1
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 985295aafdbfaecd1f27cb6357871f616ca92c99
+	branch = 3b1c86144cc8474d284e0f5bdd14dc07fdcdf431
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -280,7 +280,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/netstack"]
-	branch = 3d8d5f3ba24653e02ca82b07717174df3e0c5ca9
+	branch = 119be4161d370f95f45cd3908d79bb81b5ae13f9
 	path = third_party/netstack
 	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 733d025b3f6925393c8d60eb63ae953f52b30cff
+	branch = b913a8337eed691c81f92389d938733e28802861
 	path = zircon
 	url = ../zircon
