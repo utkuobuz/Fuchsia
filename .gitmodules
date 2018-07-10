@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = dc682aed14057651f7851f74684594160d27c6ff
+	branch = 1fdee475b1e11585dfd0c532a78042b0fa36985a
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 88fd02b32a22313b5e719b6b264fc02125c4fcd9
+	branch = 1a88270a4e9c53db684299753885b63df8e629d9
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 494a94429faca309014001fcff96a1712058f5d2
+	branch = 4a5bcf63489775f23bc1088505d07d49d00704e8
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
