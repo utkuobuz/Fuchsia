@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 8aee70d22a0ab43b2e7c95945b6f296d46bb13d5
+	branch = 79e9925d2efa897ecc00d4828d5ac14badb3b392
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 0428981e4ad51153c35cdd4f94ea6fc032bcace0
+	branch = 7a0e28585065bdc72f788f2af8dfb8e63d201399
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 335328ddf095f3eabf3ef41b79259e930271d377
+	branch = 1d12e8c4941661c0c23b38b34944d441375ffae1
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -184,7 +184,7 @@
 	path = third_party/golibs/github.com/pkg/sftp
 	url = ../third_party/github.com/pkg/sftp
 [submodule "third_party/golibs/github.com/rjw57/oauth2device"]
-	branch = b258d5df36ce010053017146a79f287d8a31e874
+	branch = bdda779088fb7d541bfc2b682a7949061817eb46
 	path = third_party/golibs/github.com/rjw57/oauth2device
 	url = ../third_party/github.com/rjw57/oauth2device
 [submodule "third_party/golibs/github.com/syndtr/goleveldb"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 58d63bbb4ea7fb044ba4b53ab6a69d56bdfb279c
+	branch = 733d025b3f6925393c8d60eb63ae953f52b30cff
 	path = zircon
 	url = ../zircon
