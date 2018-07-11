@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 59ac56eed47f612182524bd768c7b4ee7c7a56b8
+	branch = 7555c5334d578d47773d2afd0372210dcbf934f9
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 8eff69c0d503acccd0d456a09e8546a50a563e3f
+	branch = 9ebe60e130ca147c1ef5e349dd4804f4d36ee680
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 6cd55a5345a6b8019ec2b469f1069844be1ff1ff
+	branch = 10041796ae145c473113934a4a224fe3ffcf9c14
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -272,7 +272,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 79ab7c150898fb3c079b3127e21b7ee93bcb2039
+	branch = 11b4e3491c4858c674bc3196fa05622ab7ea921c
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
