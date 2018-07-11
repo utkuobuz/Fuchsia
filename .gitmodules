@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 0d855389ce20fa4aec6e9d0eb501802a86d6f467
+	branch = 59ac56eed47f612182524bd768c7b4ee7c7a56b8
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 05c6375ebc5126649df683723718da92318b78d5
+	branch = 8eff69c0d503acccd0d456a09e8546a50a563e3f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 1230eb961dc4964fb9cf0954143c24c92f2de6d9
+	branch = 6cd55a5345a6b8019ec2b469f1069844be1ff1ff
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 65d17ec270c4ea62c2f3259ce51cfcdcfbd9be54
+	branch = 6c66c00b3586b35fbc2d687aa588e45ba21f257b
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
