@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = a223b7029c536a496561d74902ddd80885934f30
+	branch = 76352b8c5d91c38d57adcf3ff6db8e9c5266d80f
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 7c84a8353f7b234877075d6905686d4651ae22a1
+	branch = d0c837abe17bb4e3c71c860b4ae84413fad83401
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 7eb615c1ffba8464923cac4dcd32556df723ec44
+	branch = 324b2a10369a764ff79211f520f2fd0ea17bd5c2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = afc65122aa9744092b0568e39f35e77d4b13b91f
+	branch = 68c3b1d86065cf3cdf831b9328550b7ad06449a6
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -80,7 +80,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 5413560415153e51c49a83140edc8da952428088
+	branch = 7ebf2728dc9173ad63a41aaa4c13e1fcafa51d4a
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -88,7 +88,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 4c9689c1d2da97d0aa25cf16cc90c2e463ad157f
+	branch = 84ca27a09ebd6a65cd23ee52d835d89cbe06c574
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/etnaviv_gpu_tests"]
@@ -108,7 +108,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 21c7d6a5da47165d076928fbe460badbbead24cd
+	branch = fed2ea458ed49088d33eddabc546ba56d600c717
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = e67840d6f6e9c6292028c14881eb35b6a9b19291
+	branch = 3eaa65ea420960da3ed74088bc9caaeb594da389
 	path = zircon
 	url = ../zircon
