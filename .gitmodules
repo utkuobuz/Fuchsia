@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 76352b8c5d91c38d57adcf3ff6db8e9c5266d80f
+	branch = 9c5033880663e50a4487b3633963456cf7894895
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d0c837abe17bb4e3c71c860b4ae84413fad83401
+	branch = 8fb2907e3f17d0f288cfa69475b03c7f9f4107d5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 324b2a10369a764ff79211f520f2fd0ea17bd5c2
+	branch = bf5d43406f80e9093f33c2c595d2d4dc794940f7
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = b2f509e5bc596c57e909d3fd589bf481bb873f47
+	branch = 64dd6cf884b8ccef15f5768c173722ad7eb19b4d
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -47,7 +47,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = ae7c2e833919e755b02ba411fd45dec118f66c0a
+	branch = 6f7e42f5cfe20a5d57bd9415e896d512195075a3
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 68c3b1d86065cf3cdf831b9328550b7ad06449a6
+	branch = 45f147129e8c6f8c85efe1194eb9106ab8153921
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -393,7 +393,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = 94f5691c800c55bab144d1bbf11847a4dab8d0ea
+	branch = be13896dcdde1b3fc53102d9718419bd45cb7a91
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 3eaa65ea420960da3ed74088bc9caaeb594da389
+	branch = fd0748f9e36785c32db16c2d5dae4b2816fdea11
 	path = zircon
 	url = ../zircon
