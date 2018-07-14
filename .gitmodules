@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 15c660bff0b72cf58a34976088bb79956a59771d
+	branch = 0613c1ae42587ccdd01e93d38146075cc76753d3
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = ef49057f7312cde5f467ac064ee30d195ef1fa95
+	branch = 39015b222dffbe64d735a809b9b1320943bc0432
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -377,7 +377,7 @@
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
-	branch = f618e0a94bb6cb44b9dda3439af9da822a04c958
+	branch = 07e4f4281ee4a01f1e780100cb31c4ec574bedf7
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/vboot_reference"]
