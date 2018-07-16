@@ -88,7 +88,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 84ca27a09ebd6a65cd23ee52d835d89cbe06c574
+	branch = c9ba6a9709fa6a6ea13d9e5e466b67c2e0667a98
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/etnaviv_gpu_tests"]
