@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 1ea587dd56bed89b611777af3f64a7374fdce437
+	branch = 221aa662a120bb368532d2a873b86002a2904a7a
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = f886a54e88200cff41093056321188ffe1b5a045
+	branch = 44861138b0b0b22b0911985890ef45d5fe41c320
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -88,7 +88,7 @@
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = c9ba6a9709fa6a6ea13d9e5e466b67c2e0667a98
+	branch = 7a5e49e4e49303c509ca2667323fc93883f78969
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/etnaviv_gpu_tests"]
