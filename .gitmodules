@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f2a055f214973ad9c2a1422eeedd1f54ac0a34b3
+	branch = 9952333415bc6de20f5895b39416166e004ffa42
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = de970fcba5b6cf4600e58c46b4378f5c7902880b
+	branch = 5ce174c55b0b1804f983b034c7404ca2ea1375c5
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 47e9c172a3089e14ab2545cc7c05e82c8c4e8cc7
+	branch = 6c0479c1bf8ccbe5e7425fb84ee74bac8d8b5134
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 2802f827e8d615ae41f6f30f7cc753a35e931a1a
+	branch = 422da60cd68bbfef29b4d8e9264e3d1948ec9001
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -393,7 +393,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = ee069efcfb6898243dc20be38c478a5ad636a59a
+	branch = e77d4ae157708672311cbb3d672896bf0cd85ae9
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
