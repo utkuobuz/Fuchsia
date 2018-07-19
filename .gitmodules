@@ -3,7 +3,7 @@
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = 819527b3e4c83a039592d47dc10db116dc6f899f
+	branch = e3a5a751600f8ce0d34c4682079c7a0f5c0eaecb
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = c7e45b9df6a241b05048f8ea40ff9233e3e3f675
+	branch = 6547d52755e4be1277745e6344d8f87a1e1f98f5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 940d2fd81ea7f88b5e112a57cd96118618665586
+	branch = ccbe119fa3c5f78a9b0116d6ad8ee9aed99e2842
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -272,7 +272,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = 11b4e3491c4858c674bc3196fa05622ab7ea921c
+	branch = 6540931e0c692c90aab9df0a22a9d0c77660f194
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -393,7 +393,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = 9e58d5a2da33fa844cfe042291ea8a729f9629e1
+	branch = ee069efcfb6898243dc20be38c478a5ad636a59a
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 25a3a06972c4c5f40addfe4db38622d4fb0a9bf5
+	branch = e9d30e12001eabe7c547f0bcefbb3bd1a0dd075e
 	path = zircon
 	url = ../zircon
