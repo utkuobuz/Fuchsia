@@ -381,7 +381,7 @@
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/tonic"]
-	branch = 311cdcca24443cdea4658ca32e09b5330973013d
+	branch = e586d2975fedec0aa6c3ec87de287789172a0948
 	path = third_party/tonic
 	url = ../tonic
 [submodule "third_party/vboot_reference"]
