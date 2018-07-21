@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 9a9195478155c72342e0e44ecf20813a38ca88c8
+	branch = fe6c2d493640f263fabb19fd0c412f93823282f1
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = b6ec9ff3f8e8c3a7cba403c6e3f79c2db37a9678
+	branch = a22650deeed9ca08947db44571fc8bd66ccc4600
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 46c608fb232e6dfd96248327177eda364f0aba26
+	branch = 63c41230712380bcfe8246957a993710f3d27d0a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = d34c0f5ebae684733c7fd689f375af7cf77aceb8
+	branch = d4cd5aedf22c2137d719b7d8ec7bd53f8f563bf0
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -131,10 +131,6 @@
 	branch = 276d10cc9a0f0a1701ecd59286ba6766d29d3d24
 	path = third_party/go
 	url = ../third_party/go
-[submodule "third_party/golang/crypto"]
-	branch = c78caca803c95773f48a844d3dcab04b9bc4d6dd
-	path = third_party/golang/crypto
-	url = ../third_party/golang/crypto
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
 	branch = 259d2a102b871d17f30e3cd9881a642961a1e486
 	path = third_party/golibs/github.com/dustin/go-humanize
@@ -167,6 +163,10 @@
 	branch = 97aa668b73e764ccdd786bc3ccd2edffe621150e
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
+[submodule "third_party/golibs/github.com/google/netstack"]
+	branch = 119be4161d370f95f45cd3908d79bb81b5ae13f9
+	path = third_party/golibs/github.com/google/netstack
+	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
 	branch = ce3d4cfc062faac7115d44e5befec8b5a08c3faa
 	path = third_party/golibs/github.com/google/subcommands
@@ -195,6 +195,10 @@
 	branch = 96e4ba3a7613a1216cbd1badca4efe382adea337
 	path = third_party/golibs/github.com/tent/canonical-json-go
 	url = ../third_party/canonical-json-go
+[submodule "third_party/golibs/golang.org/x/crypto"]
+	branch = c78caca803c95773f48a844d3dcab04b9bc4d6dd
+	path = third_party/golibs/golang.org/x/crypto
+	url = ../third_party/golang/crypto
 [submodule "third_party/golibs/golang.org/x/net"]
 	branch = a04bdaca5b32abe1c069418fb7088ae607de5bd0
 	path = third_party/golibs/golang.org/x/net
@@ -279,10 +283,6 @@
 	branch = bb3a13cb4378fdafcf365521bca5b3a062b9d856
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
-[submodule "third_party/netstack"]
-	branch = 119be4161d370f95f45cd3908d79bb81b5ae13f9
-	path = third_party/netstack
-	url = ../third_party/netstack
 [submodule "third_party/openssh-portable"]
 	branch = 961fd14159e8bde1185388dcf4bb240a7fa49841
 	path = third_party/openssh-portable
@@ -397,7 +397,7 @@
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
-	branch = dcfc5a73d07050b17150e097d92d1261ba884d10
+	branch = 5b14c6ce057be9f2ca428b2a41264da14d5a16e3
 	path = third_party/vulkan_loader_and_validation_layers
 	url = ../third_party/vulkan_loader_and_validation_layers
 [submodule "third_party/webkit"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 896f6d8a928bddfbc8c8555684b090a07a3e505e
+	branch = 7f71bcbcfed373d1c68258617715681178f8c73d
 	path = zircon
 	url = ../zircon
