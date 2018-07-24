@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 3d8ee8e9bca467e78575eef799b7536e09ecb33f
+	branch = e0edf57df31e1428a3ad4dfdee34f6f76a5ea260
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 025e984b91e5e487844bd7d08f9c427ba16d0de7
+	branch = 867ed15dee3e419b6544fa1eb7689fdf194d902f
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = dedae0b9cf4fcde9604db3e28d6fad66352bd1af
+	branch = 1179bdf9c7dbd70eb17d02d04e3762a9eaf8d9d6
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = af5ad045ad70843855465dfeb7384ed74a2ba482
+	branch = a9721f97005340eb9fe9d709478d0562e6012b6e
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -60,11 +60,11 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 1381813c377d1b430318bfd22c757ba98e1666a8
+	branch = 2edae10bfbfea9def5f2dac1116ffc151fb26620
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = 40cbf60c1f0ab87df6c4e7f446705dd142db05bf
+	branch = 91af62a06512dc3b68f4fad3a62a2f0712494e26
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
@@ -340,6 +340,10 @@
 	branch = 90bcc0d682d3527105e92dfbef8213058c700f96
 	path = third_party/rust-mirrors/rand
 	url = ../third_party/rust-mirrors/rand
+[submodule "third_party/rust-mirrors/rust-crypto"]
+	branch = cc1a5fde1ce957bd1a8a2e30169443cdb4780111
+	path = third_party/rust-mirrors/rust-crypto
+	url = ../third_party/rust-mirrors/rust-crypto
 [submodule "third_party/rust-mirrors/rustyline"]
 	branch = 3b94c073fadb64e35a9ba6e7fe6b622b0c357771
 	path = third_party/rust-mirrors/rustyline
@@ -418,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = c9fa43e3a0ce519afa7063b45b9a73e0ca8cebaf
+	branch = 19769e2f0893f2529652699488b43cc82b2e41eb
 	path = zircon
 	url = ../zircon
