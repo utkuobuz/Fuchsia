@@ -3,7 +3,7 @@
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = 6d89a6b8814cced284ba97a2b03e7171ed0cd6e9
+	branch = 6c4da49100d597c2e36051cc87176055bb0999de
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 193ef86991f48ee01e77ffe1e03c239e9f9b5bec
+	branch = e477028b21fb58d80afae3eb8add49177b9e17f8
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 070354daaf637b4269366f3b19d125e022764e87
+	branch = 96a0052d26e06f762d9de594ba4c8e30277f3569
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -164,7 +164,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 119be4161d370f95f45cd3908d79bb81b5ae13f9
+	branch = edfbb1b67d8c386803a844e132bdd6cbe385eef6
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
