@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = a63ce5253098b0ca8acf14a06755436ee969b2a7
+	branch = 8306866eaaa96512b44b82b36cfa6085525e8477
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 42fe6c80842622f05e1c89bc2b3eb46a427c4221
+	branch = 6fb7223b7bba441751d180898cba3d67dda9640f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 1e61f6096b9a7a88f493c58da554fb367abc6ea2
+	branch = e05f902a692909dd57b3d3ddbf081c9e1ce2dbad
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 8f7033461eb497f05915488c5a8c25d1b02db431
+	branch = 8dbe9d3e4353e54acbaad2ce432a9da92bcd3e34
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = a65639d64d1816400fe9b57e64cbe7d7f83788ee
+	branch = 131132f0a75a8ff34a0ef58280dd8856a379ef53
 	path = zircon
 	url = ../zircon
