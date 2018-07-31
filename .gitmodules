@@ -224,7 +224,7 @@
 	path = third_party/gtest
 	url = ../third_party/gtest
 [submodule "third_party/harfbuzz"]
-	branch = 2eed78c0bb5f2b12ace17d03cfa68b9f1535c85d
+	branch = d837034f09a957faf2814002e8ebd81da6151d1b
 	path = third_party/harfbuzz
 	url = ../third_party/harfbuzz
 [submodule "third_party/icu"]
