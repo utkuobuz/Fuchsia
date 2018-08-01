@@ -1,9 +1,9 @@
 [submodule "build"]
-	branch = 84cc4f12903357e27cdd19bd35315e7241703770
+	branch = dcc028b30b140afd096828dc9b071d10cc39dca5
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = 6b287ad334cc82f14876206ce6558462a5ed72c3
+	branch = c1887dfba7dc53e772b30d1d44334f9b12acc2a0
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 0cf7b60ca84c9b2d5d19fdecdb85bf2e5856a17c
+	branch = 20487fbf70ca62b15ef28fd0fc887310aefd4f08
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 5265a063abaf76323c8c35755224b27bf55d0fe8
+	branch = df66b61cbeddb19614ea8bb8754e22c2548a5d72
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 44f06b3fe3ed96c3fe47317d15771bf2d9030466
+	branch = b9391b40bb6763f1ce607725b8e43b0bb12e3ffd
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -80,7 +80,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 3ca6445c99ac49fdd2cd0169084afaae17809a51
+	branch = e52eeba3674b1c5cc6ee46c1088f1f0b997a311c
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -108,7 +108,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 5557e3006e8346b2d3cccf3fa68859a00947641f
+	branch = 7d17da76dbcf7df462d5051f61fde7b38aa4c98a
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -385,7 +385,7 @@
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/tonic"]
-	branch = e586d2975fedec0aa6c3ec87de287789172a0948
+	branch = 87005da85dc6e2cda59e60bd7367d25f95578753
 	path = third_party/tonic
 	url = ../tonic
 [submodule "third_party/vboot_reference"]
