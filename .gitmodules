@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = dcc028b30b140afd096828dc9b071d10cc39dca5
+	branch = 90f468a6da5dfe27385e4ceb7e43f9fb897f786d
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4241ed24932cbdef1fd89fa8bc4b0ac1e04d3e4f
+	branch = b4dc621eb69092bf0074519068c51e587ab35e58
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = d70129ee15228c4542b45be7266048125567a7fd
+	branch = 238c6d6af5d661cb055d07ad05be44c40bde7eca
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 7b8f787ea38595d7fcb31ec6bc9cad3f9e4a8c07
+	branch = 8659df270a45493d27328415f9e0ac2ac2d380b6
 	path = zircon
 	url = ../zircon
