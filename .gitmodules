@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = de4e1ef1c528f59682e856f8bcfd181d1ec0913d
+	branch = 986a160e4a8edcd3305ff974d61003a199ec1ca8
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 37a8bda15848e46221d987a046c89f46029c10dc
+	branch = c9ff5c79373dc0d680755b79d178e23e9b6bc22f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = fd0e44888726a67c2032909d0b88e26dc011906d
+	branch = 98fd842a11b86ad63bf6c5a51ae8ae83e4e2bceb
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 8dbe9d3e4353e54acbaad2ce432a9da92bcd3e34
+	branch = 15bb49382bf156a6426f1e369492e0b1190887f8
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 0ab9f357b29d2d4e68f2c47b1d736b64165a5b6f
+	branch = 49d58aa3821f9c980d66ae2a0974ddfd4de21a43
 	path = zircon
 	url = ../zircon
