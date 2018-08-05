@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6cf89e1fff04040f77a3a7b7b310e7eb8fb51c2d
+	branch = cb3d058029118350d6a0cc8b0887d0700be679cc
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 6a03922541c8c7209692b416e39b8ce0107f3897
+	branch = 594a48eda26cc4c11562e055311e1eb567674ab9
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -228,7 +228,7 @@
 	path = third_party/harfbuzz
 	url = ../third_party/harfbuzz
 [submodule "third_party/icu"]
-	branch = 8894665e5662b64e05386efdbaedcbc6095ca970
+	branch = 15006476e9d2f5c7d6691f3658fecff4929aaf68
 	path = third_party/icu
 	url = ../third_party/icu
 [submodule "third_party/iperf"]
