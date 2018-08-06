@@ -80,15 +80,15 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = e52eeba3674b1c5cc6ee46c1088f1f0b997a311c
+	branch = ffbaa97b507ad71394d479ebfd76ede2aa450199
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
-	branch = a27040fa03ace59e155267fe732d2ddd0a2e7ca4
+	branch = 8f94df5d0aec6309ac6743149732bc6b87bfce49
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
-	branch = 8ed9345ccd65eb0b3312f326f219d8ba2f0d310c
+	branch = 8bad5c7b299ac081cdd30f244268478ee59aef63
 	path = third_party/dart
 	url = https://dart.googlesource.com/sdk
 [submodule "third_party/etnaviv_gpu_tests"]
@@ -108,7 +108,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 7d17da76dbcf7df462d5051f61fde7b38aa4c98a
+	branch = a76054f4b6fd2869e5635b83ed83e492e087dcba
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
