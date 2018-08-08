@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 82ad387c981165841f49af59a83c0602122f0b69
+	branch = 44151cecbf7ecb07d16aa6271681d5d2cc945a84
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 0492ceaad7e10a1b895e0541a58310b24ef39e73
+	branch = 2cfeea013172f36bc72f00de157b3ae504fa73a2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 6fdbf4329e7a7394e9a8533d27c0ef2a44437c9b
+	branch = 620a9a0af8ee1dde6c7c7d9b6ab8947d2ddb82d7
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -140,7 +140,7 @@
 	path = third_party/golibs/github.com/flynn/go-docopt
 	url = ../third_party/go-docopt
 [submodule "third_party/golibs/github.com/flynn/go-tuf"]
-	branch = 17fe7131b429f3f6144c0ee91f2f0c4cebc779ca
+	branch = 18c41c82ff2cbcd22d24b4c96e3d25e3863ce53f
 	path = third_party/golibs/github.com/flynn/go-tuf
 	url = ../third_party/go-tuf
 [submodule "third_party/golibs/github.com/go-yaml/yaml"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 13e4865eb96d1cf85aae1aed22ea3c381865f60c
+	branch = 9a1a7caaf3bb51d9df6095f3d7f182c3d3eba26c
 	path = zircon
 	url = ../zircon
