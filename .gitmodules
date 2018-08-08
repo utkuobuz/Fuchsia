@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = f1d61d46e6be5e6624b4609fc3fe3e9b0f38a48f
+	branch = c9d6e6e0c74edbb60a0e0a9e430764d539e8eae0
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 665113f51fcd4b3514dcbe7f2d6f012ffddbfbeb
+	branch = 2d96f8b2d3f504b3f6a13f3df68b21fb463df408
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = b8356608d0247a1ab10c8ea31ca2574f7e15f8c1
+	branch = a67a25eaf10e04dec97b8174d4abc9b1908a883b
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 67e8d91a342484f9b422278b4abe17ad69850b66
+	branch = 7916490d1dc4505d023ee1140e04a9c80a47b284
 	path = zircon
 	url = ../zircon
