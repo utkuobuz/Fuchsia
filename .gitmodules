@@ -1,9 +1,9 @@
 [submodule "build"]
-	branch = afd8e0281f5c8ac9d852f7f6e3ac2187190f985c
+	branch = 2fdcd6dab9877fdeed3f40a97236e3d18d4b968b
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = b20440657bc5289d472cb4bd89a429e8cb8d80fc
+	branch = 4afba7b25022a8a9d43152b34b2e02dda3e3cff5
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6020ab71fb04226d38876cf5337679e72273709e
+	branch = 4eda953329a410c52b923c7b8eb936bb2a433912
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 8b33efc5175c088bc28f1697b4184f408a3e4d94
+	branch = 418198cb79e3239945ea63ff66b8b99a561c2a21
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = fac6dadc1d074196bee66e8b99edc9f898dcaf97
+	branch = 7903c5d61c323e24baabdf5b79d3259d17eda6c9
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -47,7 +47,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = 6f7e42f5cfe20a5d57bd9415e896d512195075a3
+	branch = 8742524e31a4dfbfe35fbb3d17f7f04b5294fdbe
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
@@ -68,7 +68,7 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = eeb918ed39c79ce4aae15e8e2ff9a01039ae1825
+	branch = 48de625135a15d0e134f84b753bb090e6f96476d
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 15bb49382bf156a6426f1e369492e0b1190887f8
+	branch = 13d6470fa52653c8e9edce959aeffaaeb39af281
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = bca8b8bf363fef84c2364e1765c281286efb2dd1
+	branch = 8ebf0de99f257311d1b5bd6e8f5cb09d0b6c6b33
 	path = zircon
 	url = ../zircon
