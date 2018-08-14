@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 802c7190e3c30db49cea64d198fe80936c15f922
+	branch = 9cedab7d220eb723f07d768f34178db944c2e2eb
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = bd46c7c23a014c8e19e8d726442b7af2a9766d95
+	branch = 2e410e268d7bf120caee5ac1e4686605c3f8a7ea
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 2bb19717550ddf3cdd9952a1f0666e4d57bb2722
+	branch = e52c8d1f68fa7bfea5924f0de75ad730944d29c1
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 21cd5a309631b78d6deedc1ca56ca83ead9fbadd
+	branch = 501bed82a534863b084845798d30eec6263f08dd
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -72,7 +72,7 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 03abd1bb3497788c310c215a294dd34a63495668
+	branch = f8b0538406ea35cd19beb33f1f9c48807c670014
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = f3504afa928cfa672348d782ad2017e1ec02eeb3
+	branch = bf7c07b1b7ac7ae5c8dc85b2fc09496c0403c25c
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = a9a870064667a36e70930409be31496588cc3f8b
+	branch = fa25c87ce4d601a6cbc689dccc1c4124392673b5
 	path = zircon
 	url = ../zircon
