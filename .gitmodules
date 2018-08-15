@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d9b0f5e5a925af49f9c87ca0c377b39e9dc5ccbb
+	branch = 5750356067fbf28ed92ea3b6678c88df7f48b697
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 15147f8b9526573830f92d2ed45a55853f073f03
+	branch = ed78aa66b71476ffa858e084d3c085879a557445
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = bf7c07b1b7ac7ae5c8dc85b2fc09496c0403c25c
+	branch = 50ecc3ed0b1b5f57a1c6a14bc87db5b77a783512
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -397,7 +397,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = ce114800096bfa130203a24aafc62758bcb7b27a
+	branch = d9560a4b6a9aa7934ffa65f4bed320946f8b12e4
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 1652ff9d3959467e54d40dfec2e83db4015bcc6e
+	branch = e302c45d97ba35c9ac3d0037dc43f39cac2ccd2d
 	path = zircon
 	url = ../zircon
