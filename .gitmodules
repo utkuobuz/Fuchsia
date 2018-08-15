@@ -15,7 +15,7 @@
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = b4c2c09412799fb22f68502499168b1c04897a6e
+	branch = e456a5d529b436fe18e500b334bbea2cd775e67c
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
