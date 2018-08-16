@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 87c487095735d8163e90b240105d286af4c66e30
+	branch = 3d17f40d68ab595c4832612f290de1acf94909e5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 635efaf7d818a19d4c0b4e6f7f87a62812602a8d
+	branch = 1728a2d1bf7637ddf5b6bb46fc3f89c473d1e02c
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 392cdc1bc8b2676d17daf870f795c689d4cf55d6
+	branch = 0c8ee7bea22dcb4b96ef928a147ebe17e6cf3812
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -240,7 +240,7 @@
 	path = third_party/jinja2
 	url = ../third_party/jinja2
 [submodule "third_party/leveldb"]
-	branch = 06d9c9e9311912c5050fb1ca37e4cae407db8ebf
+	branch = 7b6b590cb22a53cac7dff58afa48130d4a16c06e
 	path = third_party/leveldb
 	url = ../third_party/leveldb
 [submodule "third_party/libc-tests"]
