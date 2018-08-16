@@ -80,7 +80,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 26ba93784619381d74ff38717a5979794d53443d
+	branch = db8d63575e120543f41681ee4ee0f0de75d816de
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -108,7 +108,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = e3687f70c7ece72000b32ee1b3c02755ba5361ac
+	branch = 4ee648914f91909d2153e2ee76a057d970b0512d
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -385,7 +385,7 @@
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/tonic"]
-	branch = 87005da85dc6e2cda59e60bd7367d25f95578753
+	branch = 6bab0f304b043d8cf09900334e78b63111f76c5c
 	path = third_party/tonic
 	url = ../tonic
 [submodule "third_party/vboot_reference"]
