@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4312874fdff5c6302b1ffc7338c64b39e8d18826
+	branch = c538be29ccc4c7805ba7421c00f89c3e985a659a
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 03376f8c94fa468dd8d729cd997352be49f53e6b
+	branch = 446669f5ac097ec7a7ca2fc9ca918f827d008f41
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 7475eab30f24b31df3c833e128d87712c50ecc61
+	branch = ffd2f784b5aa12a50159e17f41011d3b689f9a7e
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
