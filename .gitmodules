@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 7eae7e42658cc61451aedfcf75b9817531a17167
+	branch = 27aa06d1645c0879a0260466d7509c48978dbbf5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 504c12c4acdf56c523193652d0e406591bafcd59
+	branch = ac23992fe04eab45011af2360973ab49defc8e8a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -47,7 +47,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = 571ec27c0a0321259b0d2f62720e30a06e6c03b9
+	branch = df6dc0790da053b4f7919893fa080660b188949e
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
@@ -345,7 +345,7 @@
 	path = third_party/rust-mirrors/rust-crypto
 	url = ../third_party/rust-mirrors/rust-crypto
 [submodule "third_party/rust-mirrors/rustyline"]
-	branch = 3b94c073fadb64e35a9ba6e7fe6b622b0c357771
+	branch = e8637c254e1f5b643dace774ceec268bcee1cb14
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/tokio-core"]
@@ -397,7 +397,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = d9560a4b6a9aa7934ffa65f4bed320946f8b12e4
+	branch = 89f1c06b31f72615817b8cb69e4c835de1f800d0
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 9088b86e7b3dcdbd237a67def05bcc1249be1455
+	branch = 3c02d55407f1f2a2afa5ff4cd2ca5213186590a0
 	path = zircon
 	url = ../zircon
