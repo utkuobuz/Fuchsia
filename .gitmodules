@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 0a569fcc40a01d0c41d1d3d5ddcddd18a7fe800e
+	branch = 159282e6b8a54497fcad571780b700b96ca22966
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 49d7e30f43f0f92dad775b4a4aa8545040796b64
+	branch = 52b502f8a28d5d75a20251073bd9dc6936ee186c
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 7fb4dd016b30b5695e9f7de5c069efb3b683c56e
+	branch = 5f49fb662b3b99bee62d7741dbd8593eec11e3e8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = ffd2f784b5aa12a50159e17f41011d3b689f9a7e
+	branch = 1add1b8731536e92f353b7d050a0ab19ef63b6d8
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
