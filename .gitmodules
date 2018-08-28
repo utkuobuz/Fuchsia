@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 38f2a651bb76deb53338082ce118f36af3428bdb
+	branch = ba68bcdcad9ed3e7a5675c9e036f818bbcc17f67
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d518d96b0c5063a934ffac5202a194ac019a9966
+	branch = 51ea4e4322808e7b322b408520b6945e3b1c1d26
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 2e4083c092843459969c8f6cbf1d7ee80f7049a4
+	branch = c2c1321fd78f44101d07c3680690608d9e685016
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = eac12861e304dc11fa498b99c3beb64b9ca98559
+	branch = 6c2a6fa8fa3dd80f1ad85ca16a2ba86311f429cf
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -47,7 +47,7 @@
 	path = third_party/benchmark
 	url = ../third_party/benchmark
 [submodule "third_party/boringssl"]
-	branch = df6dc0790da053b4f7919893fa080660b188949e
+	branch = 7ae3682570b4547e3a9b8ff41de5c69e0253fd49
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
