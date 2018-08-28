@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4e0d394b52a6f80f1e1f33c5d12fd464bc414e03
+	branch = 72ddd5090a7c454d6b252a03b19b7f024ad4d2c8
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 2170de461d356fee128b4138d99463be4390c78f
+	branch = 1c9162dd9dd18e90bb7f8e2ffff5852eea21e6f2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = d0d714d0f2fcdc5e0451fa4d2a6530e43d95411c
+	branch = 5d0291214a16b137a2c1ba9e67044402ffd71905
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = d4f0b4c1a8f78cece240c0963df9d37af707196a
+	branch = e80b2ff7f68348b7f2ca3d2120a264d7404d820b
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 36ee828eeaafd33e183c2a5647946ad651808124
+	branch = 6223ccf61272207aa0124d3676394d3ee547491e
 	path = zircon
 	url = ../zircon
