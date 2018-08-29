@@ -3,7 +3,7 @@
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = 1d1af17bde2f50c2ea37a7edd0987f1c9bf0e561
+	branch = 8431b186768f4ea694631e0099f6413f84b6fdd3
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 9df7f1a82374c4afeb4a11a467e42ab036477c3b
+	branch = f6b06cc981a7b35595ed2712bbdb2b7ee3bc4818
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 99d22008cb913c7b5bb8d0ac98f79fffa670f7d0
+	branch = c1e1fbd41d0a0ae29ce19cc948743559bc10cd4d
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 85388f16f3fa3b42cb435f9c8601448f5ce035ea
+	branch = 3a64f6fe714714d88ad2f67cbddd419424a5fe7f
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = c2b1e8ce82f8dd6e3447e4a5075a2874888057f5
+	branch = 636593008780030311a2bb648de40364a0112805
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 6cce1383583a4adcd15c83039e05fb2745978ed2
+	branch = 75ed015798be41e150a7a456951f4edf6075d4db
 	path = zircon
 	url = ../zircon
