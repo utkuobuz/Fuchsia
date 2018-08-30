@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = e38196c083b0be3a34676168c5f1557cf0938ea6
+	branch = 3b0ff59027eb5d6f6a0b33df992fc772a104c300
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 6d9c395e76e9c2621dbf4f15db24c8d6b713af32
+	branch = 7142821c7535a675b30ed8e6e9fbaf0bf4a6501c
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = dfe14261c7fb3994939d6426d2357562e9922fcc
+	branch = 03ca1f235130097c00a22cb813817c994db258f3
 	path = scripts
 	url = ../scripts
 [submodule "third_party/android/platform/external/aac"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 274a0d3d4b74992356aab57706524f3def4f0dc3
+	branch = 7a770735549a748a5156a6e27279e6b347b04e0b
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -353,7 +353,7 @@
 	path = third_party/rust-mirrors/tokio-core
 	url = ../third_party/tokio-core
 [submodule "third_party/rust-mirrors/xi-editor"]
-	branch = b08bc5a755c2d35c6540480e99dd73ec8ebbf919
+	branch = 2100f968cb9a5f9e55f96962ec72a0f6e4147cfb
 	path = third_party/rust-mirrors/xi-editor
 	url = ../third_party/xi-editor
 [submodule "third_party/sbase"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = fce347fcf3ee9d024fb6ebff3756b5a40cdc55f6
+	branch = 5ba5fc21c8070b7d8adf13f0e711a18786c231cb
 	path = zircon
 	url = ../zircon
