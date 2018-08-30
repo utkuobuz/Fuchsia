@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = ce8b8c209502e9b3ce170fa22ab947b48675999f
+	branch = dd1a5c2074e0801b9a5ff4d1a6e7cf9bddf0b4b5
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = c9e1ffd70f00a92097791051df8c1ece9cef15b3
+	branch = 6c15c48045a4d8e6863507adc24538af231cc5f4
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = a7857662f43abed33a95cbc94a5c7f11a0720f09
+	branch = e33f111f808b698fbbde4c8deac57d9031a74463
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = cb813c8803b2f35b53b32b80c0abfca607dea6bc
+	branch = d539d9382241310ff2cc7c8a33f27222d1ab748e
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -128,7 +128,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 1515691c6d36dfa8fa289da9974a36975dec1966
+	branch = 24a2483ad1fb3ee0af0cbf655a278881a04c53aa
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
