@@ -365,7 +365,7 @@
 	path = third_party/shaderc
 	url = ../third_party/shaderc
 [submodule "third_party/skia"]
-	branch = 114b0911fbf36f22e015ce460e14d9c6835240e2
+	branch = 825256d7cdc61cda3a0a772cfce66a36285f1341
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
