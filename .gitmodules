@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 0d5be62a16abe349195c635a1b6f27af21570c01
+	branch = 026bf08635b8a8b30ba8cf135304ea3b99bf9083
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 98adcb0904c0602d8c2d42c0dc78785f036e2cb6
+	branch = 49d5add960f119e9ed7b0dee7eb60a108741bd01
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -60,7 +60,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 43d827d8863cabd6120b766c207a0592cd9cbc23
+	branch = 7f458630fcb22045d8b8c7bbc19eebf925b987fb
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -68,7 +68,7 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = b25e0919147aab8031fc0c2f1553c76c2de2ac3f
+	branch = 3bd1e4fb1538408f82dd8bfc3ebcd31d6208fccb
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 1a92dec19828d107899f5fddd19f4149f0408986
+	branch = 60f5d2e254a154b54ed8c8c859779b67d5237284
 	path = zircon
 	url = ../zircon
