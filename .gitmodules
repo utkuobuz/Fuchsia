@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 16d8f0bc13d318bf4ca18aee0f14b3c077b3bf64
+	branch = fd8818e4f8771e5acfa55ff02bf2a805fceeb6f1
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = e6b0032008f7a9c3a449f648e676903d9306a3e0
+	branch = 9840f63b507644d96a83a63b82736d936e917ef0
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 57de57c63900b2dc2bf2f6dc0647d9ede4fd2cf3
+	branch = 0330130cb5c7a9171d4e4133e7137e4c4c62e237
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
