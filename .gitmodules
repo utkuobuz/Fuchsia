@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = a607ae6190bbb480b42654fe83117d0455e4f8b6
+	branch = a8c7d12683d8276d1922c51316b9511962ccde41
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,19 +11,19 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = fd8818e4f8771e5acfa55ff02bf2a805fceeb6f1
+	branch = cd5deb3827c339cbe187807de3e8ad9a8746a14f
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 9840f63b507644d96a83a63b82736d936e917ef0
+	branch = 4d8f3a5af5822eae47c4c4c56277f0c910ca20fe
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 0330130cb5c7a9171d4e4133e7137e4c4c62e237
+	branch = 6c88f8dfcf08c088c00538667350349f4a702fd4
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
-	branch = 9acad869d21731f5bc50430a33fe61cc0ffcbb0b
+	branch = c9e90005c0885c09d6b68d70222a2c4a50b2f6f8
 	path = third_party/abseil-cpp
 	url = ../third_party/abseil-cpp
 [submodule "third_party/android/platform/external/aac"]
@@ -64,15 +64,15 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 2ef3b9b4b7aebd6491780179b2e191509d1bf0f2
+	branch = c80faf456d4ca70b4782073e999f90a47c0598c9
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = 6e60dca5de5d0070f5698bd816594c095a5dc916
+	branch = c6066c860cb819ca61af672a8125ebf514b2aacd
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = aaf873360f07465c84493807f99074c3b939f406
+	branch = ff9898979ed6aa15d92a884c102738e9d45d35d8
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 24a2483ad1fb3ee0af0cbf655a278881a04c53aa
+	branch = e13b45af3afdf383d7cba10e688bb967fe8c2e00
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -426,6 +426,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = f493ee3bfb4bc8d76b6ea049d5823fb18cd810b1
+	branch = 0246fb293959679d8f17bbf6c76add561bd8e7e8
 	path = zircon
 	url = ../zircon
