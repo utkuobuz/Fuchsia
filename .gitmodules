@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6833ec8a84c171987d87ed427886f17bca81dd48
+	branch = 7ac8bc4103b97dbb2e8a1c3bd59b155b67bff571
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = e982afe5f9be3c9460b5be0bda40d48a5913aff5
+	branch = 9881f3c2fa8b8f35e0c846b6f980e911ffe52f85
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -267,10 +267,6 @@
 	branch = 46bc5df64646302b9b0973460d029d6e799f4260
 	path = third_party/libxml2
 	url = ../third_party/libxml2
-[submodule "third_party/llvm"]
-	branch = eea8107fac8b7780d6a31b1a416ac130e050139f
-	path = third_party/llvm
-	url = ../third_party/llvm
 [submodule "third_party/mako"]
 	branch = e6b41d232315660de544a7a692e58acddd2e612c
 	path = third_party/mako
