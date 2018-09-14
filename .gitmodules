@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 2acc839721d864b49094964c66cf8fcc73ea3e2e
+	branch = 8f8757227924e47f7b9590f0270da2055f3bbf91
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6218ce0400fc30e3b58680a3b3320f484cb3430c
+	branch = 737df0972512b56f62b43f4fe2d8c74d07cd040e
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 69c8f6e0f1cccfb4a80c44fe973cd011aa128120
+	branch = 83f1cfad1176dfe632d20842fb65245c601d1d44
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = e5e5db4ea3927ccc4bd25a83f595d891fd0f585d
+	branch = ed5e8383f115397016ef39ea1173f27c59cf778f
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
