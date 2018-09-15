@@ -1,9 +1,9 @@
 [submodule "build"]
-	branch = 8f8757227924e47f7b9590f0270da2055f3bbf91
+	branch = a9f5be0e50cd54d3bad6590ddd615d20aba95add
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = b60cc9da2c6f9996def3d3e2b166deed317672fe
+	branch = 2485c80217778655c7795617b247d732fc1327cc
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6bf7eb031920aa461d1ff58957b5786c88e70a79
+	branch = fe2c95cdc5aa5b484330b66cd1164c2d106e19de
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = df05aa48a03ffbf680d6345e964b8d7a24f2bd97
+	branch = 0141011f614f0a759461e041a5a9340b4e17136b
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -136,7 +136,7 @@
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
-	branch = 259d2a102b871d17f30e3cd9881a642961a1e486
+	branch = 9f541cc9db5d55bce703bd99987c9d5cb8eea45e
 	path = third_party/golibs/github.com/dustin/go-humanize
 	url = ../third_party/go-humanize
 [submodule "third_party/golibs/github.com/flynn/go-docopt"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 72a70b796a048ea06367701b04c95a54e91a4401
+	branch = ee9e68dbfdc1dff3eaa21d276563e4eb003ebd36
 	path = zircon
 	url = ../zircon
