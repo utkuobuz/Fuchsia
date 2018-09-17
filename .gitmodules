@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = a9f5be0e50cd54d3bad6590ddd615d20aba95add
+	branch = 0870e5986cd92395d7caff7ee9fafd3e19fcefe6
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 6c1f22737e3acbcc6ba3e36c12648e9c171b7f9a
+	branch = 4e8d6153eb2508a55fdb445024b05400efcb2dde
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = a6b3ad41638a19b83787bf3a269918f5dd490d55
+	branch = 65ea4f22e88b2ea280595d83e17c61224b89ddf4
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 01de46c36e44ea2abad51ba370dbc883d34cbd99
+	branch = cbd81c39ee6ca9d97397253fcef1e7206b108e1d
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 9f36d9f788130761c3611060bc7a104772761d15
+	branch = 614ec656b97e0f1bccca5ba468b2b8b6c5943451
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 3d5558b679d77c451db1dc494ec59fd3dad68bc0
+	branch = 2e585e9e505907719efebac1363a43af400f9d8b
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = e7b4d55a9c9d47c5511ac00cd58f54ddec2de003
+	branch = 93254c916796dc24c7c71af2c2fdd2aa9e00ef76
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -422,6 +422,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = ee9e68dbfdc1dff3eaa21d276563e4eb003ebd36
+	branch = ba063a75a438fb92fcc3c2ad6fa5b842a35a1182
 	path = zircon
 	url = ../zircon
