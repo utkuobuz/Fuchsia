@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 0aeb9390aedf6bfd7b22685218a4f7a414e89ca5
+	branch = 4e8f2a3e536af10435661e682b75583da32a37ac
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 1804c2fc829ccbca4e776ad69396bc951346e82c
+	branch = 875150df878d6e88b3d5f4c830426a2fd1201750
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 595a4bc1b408c6ebf387696b6dc6961fcdc3cb2b
+	branch = 5b9174c3008a40c0b120b3fd552db6183cc04a54
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = c864c599bf94b0f51fdd3d20ee9a407c4f603c6f
+	branch = 01321eabf9a35f982b8a3d86a82966b5b5a0a15f
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -72,7 +72,7 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = 8d581e25712d769412ead7730b35d1fb0c3a420f
+	branch = 0f3e3bf1fd6094e1015ec505ba9406d09197270d
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
