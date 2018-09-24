@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = cc4082f47481fc37011659df79b669390ecc152b
+	branch = f5b54484ecbeaf25ccbf9a5ec2aa899584c5b3e5
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = a29fc7486c4b428a64fd9f725dee3b6543aa635c
+	branch = e910009b1c4b8164996c6b54556ff716d1bb4cb5
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 455a74f4de696285af2ff2df88e4753fb1719f6e
+	branch = 6764507fce7449706fc20ca03e6fbd40f5a88990
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = f19e5d11958805ab942bc0f2485922e80a3ea8a7
+	branch = e06567b30fddab5904c1ca5e1215f7d5b45b37b0
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -168,7 +168,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 3563a945670dc6146941b2545a4e3153cf121669
+	branch = fec645892d75353b1eac2a3ab7bcf103b3bfa25b
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
@@ -426,6 +426,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 2b3253da69b54f464d3d0321f039dcc359298bed
+	branch = c79dc152cf627e272be2e8f809340c04d69409f3
 	path = zircon
 	url = ../zircon
