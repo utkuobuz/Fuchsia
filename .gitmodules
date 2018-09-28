@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = dd037633a11b5f06ea5ee34600502d474545034c
+	branch = 7cbe3954a29b59fe9eded3378428747d7fe7dc65
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 626fd17f6cbe708b5838117862c8db4b3809141c
+	branch = ce2a4427168764d544f677d44625e47d441f53f9
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -168,7 +168,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = fec645892d75353b1eac2a3ab7bcf103b3bfa25b
+	branch = 9b0c971898b68e0ec85df3e890b7c796f9b098a8
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
@@ -397,7 +397,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = 89f1c06b31f72615817b8cb69e4c835de1f800d0
+	branch = 265937a458a4b2640c82c65ac56fe617e37db677
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
@@ -426,6 +426,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 10b454d49a8f0638e0e2cbedffdaf41cffca9b11
+	branch = 0ce697ace1b17ce1699c3c028f4f66305e5dfe22
 	path = zircon
 	url = ../zircon
