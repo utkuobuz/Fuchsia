@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = e88eba688143d5a2580273d4db0909d37814c47d
+	branch = d4fc2d95ccfbd630cad689b7b2c7766e75973464
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 84e96d7c82f67131e470def57e56bdb25329d095
+	branch = c3b3e2f8edb8884b2c86af7eb121215de44e7f4f
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -23,7 +23,7 @@
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
-	branch = c9e90005c0885c09d6b68d70222a2c4a50b2f6f8
+	branch = a6fe4cb596c41c430924543b6d11f0377f4d1e11
 	path = third_party/abseil-cpp
 	url = ../third_party/abseil-cpp
 [submodule "third_party/android/platform/external/aac"]
@@ -68,7 +68,7 @@
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = 92878cf2790c345a0ab550d55792cc9d6d19a0b6
+	branch = 4e6cde04f232ea16e2ef4dc4e839884d7476367e
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
