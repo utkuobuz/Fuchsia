@@ -116,7 +116,7 @@
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
-	branch = bd6b6b9105f69808cbe50b5cde2775759eb0802d
+	branch = 38d69ce0df2fbae1321a951e896a5c69304e8fb8
 	path = third_party/freetype2
 	url = ../third_party/freetype2
 [submodule "third_party/gflags"]
