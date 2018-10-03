@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 99e539fb88d4f9149ffd0a8c61c5f2378d6a2212
+	branch = b76b5f81eb714e09b7764365b6a0d125cf93cb73
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = aac7d5684d809f73f71e4863d8ca455cd78be927
+	branch = dc7eae37f2d7b499040251e754a07db241725418
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -332,10 +332,6 @@
 	branch = 8ca927be7c2b12b0d3e288183493c1079ccad1d4
 	path = third_party/rust-mirrors/cargo-vendor
 	url = ../third_party/cargo-vendor
-[submodule "third_party/rust-mirrors/mio"]
-	branch = 5cea7de103fa23cdc4cb627f38fcc468650c4086
-	path = third_party/rust-mirrors/mio
-	url = ../third_party/mio
 [submodule "third_party/rust-mirrors/rand"]
 	branch = 90bcc0d682d3527105e92dfbef8213058c700f96
 	path = third_party/rust-mirrors/rand
@@ -348,10 +344,6 @@
 	branch = e8637c254e1f5b643dace774ceec268bcee1cb14
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
-[submodule "third_party/rust-mirrors/tokio-core"]
-	branch = 868360fdc047561881d4979dbfbfadcdd70c9fe1
-	path = third_party/rust-mirrors/tokio-core
-	url = ../third_party/tokio-core
 [submodule "third_party/rust-mirrors/xi-editor"]
 	branch = 9e86a2a9a2b099805cc048fc1a164b2da4ac283b
 	path = third_party/rust-mirrors/xi-editor
@@ -426,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 415b855f0bea64d5fb6034dcd76612ec9d38b497
+	branch = a3439bbcdd8589ca413655821d24e95dd5a10dea
 	path = zircon
 	url = ../zircon
