@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 2dcdf2fb6994a5c3555e278575dc0fedcbfeccf2
+	branch = 49bd174b3ddd217598d75708bfcd4f02d19f0935
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 7e7fac6798162df58533bc466de1becbabcdbfff
+	branch = 2920539647f6730e7343e7caa71f79ca9feeb2b4
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 36c8cc79ad9fd4e8921dddd0cf6b77781cfe62a1
+	branch = 8623519314acfaa5140830468e69dd0fd83c3cb2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 61bedb99ba87a7f855b56450626a29b6f581b363
+	branch = 049cdb3ee440de2a53ed753ed18d55ab8e1fd386
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -112,7 +112,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 74662ab695238af0e7402f41c4bf9ad862bd37d2
+	branch = 2c5d0c407f6f99fa9d197dfe73caa712b59c9192
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 7edfa08fa2f4ae6edc83abf194560422c6f8cf2f
+	branch = d6b21f0cad326ef0a648284b2b7615b2fc307aa3
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -313,7 +313,7 @@
 	path = third_party/pyyaml
 	url = ../third_party/pyyaml
 [submodule "third_party/rapidjson"]
-	branch = fc692eaf62dfed2764f2e320591884dd55ca9d5f
+	branch = 32d07c55db1bb6c2ae17cba4033491a667647753
 	path = third_party/rapidjson
 	url = ../third_party/rapidjson
 [submodule "third_party/re2"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 7d21fda7638d5f68c7bb49c5ddd3b6f61d4f5e08
+	branch = e3d7d192dc2e910a80abe95a77efb0d08fa411e5
 	path = zircon
 	url = ../zircon
