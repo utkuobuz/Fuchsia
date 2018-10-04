@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 49bd174b3ddd217598d75708bfcd4f02d19f0935
+	branch = f8785973b6702ea92ccb751fab2c16a9694ec3bb
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 2920539647f6730e7343e7caa71f79ca9feeb2b4
+	branch = e558fa19d9178d5e61a650cfdc1a2afe6ae2292f
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 8623519314acfaa5140830468e69dd0fd83c3cb2
+	branch = fef0fe6edbefee02703ed9310f53a7720d7ea96c
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 049cdb3ee440de2a53ed753ed18d55ab8e1fd386
+	branch = e3b37a4725a0719386f1d3d74a62ac5d5e0ab1ec
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -72,11 +72,11 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = 2348a4d6300fcf8c4cc9c8675df4e98395119790
+	branch = 79fdf79f391a2852ff96c6a8607dd71281cc96e7
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 0ad7e1fbbe297c1ebe16fca599bdda51e465c09f
+	branch = 21edfd3c3a20b1c57e5a46d472d4f219ed74ab8b
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
@@ -168,7 +168,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 9b0c971898b68e0ec85df3e890b7c796f9b098a8
+	branch = fec645892d75353b1eac2a3ab7bcf103b3bfa25b
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = e3d7d192dc2e910a80abe95a77efb0d08fa411e5
+	branch = 77a4a458792fca1c165ce67225a84734701300e2
 	path = zircon
 	url = ../zircon
