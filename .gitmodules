@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 7de17146691714bbff7a2ac17b2bb5dffc339bec
+	branch = 7d243b02db8951173fcb5dc370c9fbf7d23858ce
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = b612d23bd0606e35c5d1c8218ec2a1ce5a9abf51
+	branch = 264e0ab85ceb6228619e1db6cfb70cfa58623c2a
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 4a8b32abe65651252c1f94807ecc3e99c198febf
+	branch = 67494eaf2ecf6960fadbb34bbcc3cfc2cf01e864
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -76,7 +76,7 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 21edfd3c3a20b1c57e5a46d472d4f219ed74ab8b
+	branch = 1b4fdd0fd079ff650e37b9aa30b88093e59097ac
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
