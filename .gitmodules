@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = adc614a07f26a94df09a7d7b12f2254a5a25393d
+	branch = 5f0350d99005a44bb4b86830265997dc5cd58ead
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 0c046aa1f904eb711d4a1f9a34063027c41c55cb
+	branch = 23d5d10559ce4f3e70c98d3abac801221faca34b
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 2fff688b016d0d6a00a5b3bd84f4feb200e8d57b
+	branch = fddac50463156537d1a569b59926b7c20c8edb30
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = fa1583a037995f4fe4d26d1a8bdc21e274f04928
+	branch = 93e503492997a4136ec069acd11d1681fbf63518
 	path = zircon
 	url = ../zircon
