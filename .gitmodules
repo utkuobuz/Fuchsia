@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 99b2183673fa9e00de822e3534d7138e13b46b6b
+	branch = 5c64a05072d6aaff071a958eebd6a091ea6fd795
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 1169ea5ef547fef773f4f9632c15e1319674a24d
+	branch = 7550f6f6f64407498b460c720bde0676096b9576
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = ca0a6b5a45b80034a9a8d7e34eba4ee4bb832822
+	branch = 7c70a0479d335f615b94254e4447898ebb11cb45
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -321,7 +321,7 @@
 	path = third_party/re2
 	url = ../third_party/re2
 [submodule "third_party/roughtime"]
-	branch = 1b87c453239eefdb2363eee5614f621e22d8c7fb
+	branch = d9937b098c9aa1eabe594a27532f9bf0a44279bb
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
