@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = aa0f270f5b9ed159ccfcf01d298c64e8dd3589c1
+	branch = 3bf294837c8facc7d1181dce4e73cf935a89aaff
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4b34a87c285d994189eea8939cfccfec8092e3ce
+	branch = 0eb6b909c0815187bbe77a16609266aaddebc2d1
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = d6c02092e5be9ba22b292c90949d36c07e43a690
+	branch = d2e778a50c1f725b871960735ec4bd871bf104ea
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
