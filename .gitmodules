@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 3bf294837c8facc7d1181dce4e73cf935a89aaff
+	branch = 013bc7e892f6de6d747dcacfdb9a196e2956e6d0
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = de51172b915cb88cd4df0a49d48cf950d0e53552
+	branch = 651a2aecd465c02314e3bbcb7c1c34fb7b53acb3
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 70bc4fea2a97a47a90e08d5a5e3ccc3fff394424
+	branch = 0f60a7bf51cdc68edff3a1a0f77529f628e4a3ff
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -325,7 +325,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 0c4fca1388245e691214f04c25e3ff0cb385e900
+	branch = cf2bd042914bd3a0bad8804652f32078632276a5
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -341,7 +341,7 @@
 	path = third_party/rust-mirrors/rust-crypto
 	url = ../third_party/rust-mirrors/rust-crypto
 [submodule "third_party/rust-mirrors/rustyline"]
-	branch = e8637c254e1f5b643dace774ceec268bcee1cb14
+	branch = 69e3fe27b64d8174f383a7a6f85ddcb93ab1af6e
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/xi-editor"]
