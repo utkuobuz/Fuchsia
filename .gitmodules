@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 233c4fb22a88f0f3010d500e3fb231dc314664d4
+	branch = 6c410eb238a5422cc6e750647a5f09f2e2eb3ae3
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 43fd1c8f8303d64c40ac99719f34723f32ea74d0
+	branch = ee0009e98b52bba6e2d2419fd6180b59ffcda988
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 33a6ec008199a5431599c9dcb8ef1bbc1a376db3
+	branch = aa602bf42d03dec069aa8b36ee606f257680b2bf
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 99b88b0a2d58ea418151a3f767ffa168bfdaf48a
+	branch = 2be20fdd2d702dc3081b2d051b7b95ebc12d9e74
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -284,7 +284,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/openssh-portable"]
-	branch = 961fd14159e8bde1185388dcf4bb240a7fa49841
+	branch = baf903a4aff34287c9571060a961a836e6fec75f
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -414,6 +414,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = cf2503215a4f415d593df4eb528bc2262006c695
+	branch = ea0195cafe1354d6421e0b50a758a647f22b0747
 	path = zircon
 	url = ../zircon
