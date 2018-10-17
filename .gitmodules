@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = ad83759e408ff6cf0cc1f12f0b3342e1e69f318e
+	branch = 6024129a8e525a0a2b10822f1218b4d6ce06f337
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 88c37f75018630a05dc441fe2e272d6e5f8274a4
+	branch = 41cac7230506cc800445814b5c333708dd0f172b
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 30824c537e6ae7d52e8996121237b53ec26bf899
+	branch = fd3370d4ae488b8bc9b67ffd01b65efdd9b4742e
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 333837b76f9d5f5dc5293e5d61d38c3000890d65
+	branch = 4a53ea032617b3a86aa58ecb6b29303497af83cf
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
