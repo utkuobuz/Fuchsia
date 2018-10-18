@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 442a012b10475de84fc24c92d2f4b562845fb8af
+	branch = 6c5e6f969b59e787325ac3601d9bf43073995d11
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = bff7d662c9efc1f562498c602356a01bc9cb9794
+	branch = 3efc2e6ccce56db2841d42fb35a16a6645ff6808
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -168,7 +168,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = fec645892d75353b1eac2a3ab7bcf103b3bfa25b
+	branch = 9b0c971898b68e0ec85df3e890b7c796f9b098a8
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 7c3aeab7f9d5645872e718981a07e0b1eca2be92
+	branch = 15c4b552840a8365eb60eb787926587848e0e081
 	path = zircon
 	url = ../zircon
