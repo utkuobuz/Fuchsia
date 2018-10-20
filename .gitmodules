@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 5bfb70b39dee9ca4f6ef53438e34f489e920a98a
+	branch = 2f4290d03e7fff5093a2008941da97c9cc617272
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,15 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 2f55b1e20e8b5c9a4cc8741ca7499a83b95e52b1
+	branch = 56d5977dc8325bc5d4122113f0c2bb50b57bf3b2
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 73359621f795866ef961b01aa9dbd80823d3d3c8
+	branch = 56a6382c249c12d5669ba8894073c04bce7ae4b2
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = e0d266ae64d85c7269a59a6381db1d41705ff44d
+	branch = c04e34ca6e090f0c5c9734fbf9dde8d93df8490d
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -168,7 +168,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 9b0c971898b68e0ec85df3e890b7c796f9b098a8
+	branch = e91c5ef4378c68c78022ca45c50b46ee585c5f6b
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
@@ -276,7 +276,7 @@
 	path = third_party/markupsafe
 	url = ../third_party/markupsafe
 [submodule "third_party/mesa"]
-	branch = d4fe051c5ba5d32d4a13e069b7c8e0ab0420bfa4
+	branch = 2f2abaa7aa5ab971d80c831f077df11747790d1f
 	path = third_party/mesa
 	url = ../third_party/mesa
 [submodule "third_party/murmurhash"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 3c9cfa08c6875130bd636d8a6c0d035bbdb777c9
+	branch = f5f87776d0d0b23e0a04c9006bdae028fecc1dda
 	path = zircon
 	url = ../zircon
