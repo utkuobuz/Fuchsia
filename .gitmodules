@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = b0ce1b951ab11db8024dec7426a22c847a9f12de
+	branch = f3808331d9a1f3488a4a945513c9c13b791c81ce
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = 556d8bd9c59e8cbe8177730841a3c887e310e476
+	branch = 1480fdc117773290f5d03ac5b052693c7c6dd0f8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -410,7 +410,7 @@
 	path = third_party/yasm
 	url = ../third_party/yasm
 [submodule "third_party/zlib"]
-	branch = 5a6d2ed866da7e104c6e79fc2f2a9d5e0738cb98
+	branch = bab6ce14a2c2e3e40d454ee9e80c3811f1835cf7
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
