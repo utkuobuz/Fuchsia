@@ -11,11 +11,11 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 5a80b0507c453d6d9724f0e8ce041a0eb4c55084
+	branch = 8aadd7eadeb2d793adbc1c43350eb050577a3196
 	path = garnet
 	url = ../garnet
 [submodule "peridot"]
-	branch = b86ab87240402751e1811bfdd4f346843e509af0
+	branch = 5faf4772d42c8a4a789f79c50931d59c692b816d
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -64,7 +64,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = b145370ba06324c512d97018c0e2a08cf67afc75
+	branch = c6a85907fbdd620e996caf2b3d80081603c7e807
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
@@ -132,7 +132,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 4a53ea032617b3a86aa58ecb6b29303497af83cf
+	branch = 965606b75cdd9c97e21fa75d92a5eed0c3ef6037
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -284,7 +284,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/openssh-portable"]
-	branch = baf903a4aff34287c9571060a961a836e6fec75f
+	branch = 06e7ff1f5cc2f48f85255ea20127746cd6fce423
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
@@ -418,6 +418,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = dbfadbf06129bf44129d02f4a405ed0103036552
+	branch = 608ac63bfc2479552b5ac4bed8bf42a333d6f2f9
 	path = zircon
 	url = ../zircon
