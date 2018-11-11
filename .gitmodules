@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = fb9b46cbb98da8b92fdfd2dc1a8beba0836807e8
+	branch = b0804f110e67e58a25eb44ebcdfaa9af0dd69bd5
 	path = build
 	url = ../build
 [submodule "buildtools"]
@@ -11,15 +11,19 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 11c5adcfac7a8e59415f2cbec6afc7257fb80dc0
+	branch = d30207118cad6d3ffc00728d5e7ddc2954582e4e
 	path = garnet
 	url = ../garnet
+[submodule "integration"]
+	branch = master
+	path = integration
+	url = ../integration
 [submodule "peridot"]
-	branch = fd6e9e403829e0aa634af8ace33068d5d706ae39
+	branch = d118c37b51a4ad8f430af56f88c2691e56c29027
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 29d2c8a30ee569575151a6fd55617d05b25612c1
+	branch = 174183ae5de6963d2ca3f7bb11237940af63abf3
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
@@ -55,7 +59,7 @@
 	path = third_party/boringssl
 	url = ../third_party/boringssl
 [submodule "third_party/cairo"]
-	branch = master
+	branch = db5dffcbe3cba06aa382d4eb7aaafb9e419a5dfa
 	shallow = true
 	path = third_party/cairo
 	url = ../third_party/cairo
@@ -64,19 +68,19 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 52d2a31866ae6c5758dfa5dd253b1a677d728fd6
+	branch = 18a27cef87617554f51bd7f268b8a19f019060f7
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = bebefbea764e327d2a02a65445a285342d1b3237
+	branch = 5ad68098f0240ed72cccfbf417c5b41f124c5745
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = 03884f64bc32826549474f41ee7cbf08c0a28e05
+	branch = fabc38865634e8fff5d974611fb147810fa8af4b
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 411f0ae41d96518dfa9b75f58424d5d26eb7c75c
+	branch = 71c75401c43c771bbdf18329b92477914cc6afa2
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
@@ -84,11 +88,11 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = c319b890b33f2c15af043f2ab857e7c2944beefa
+	branch = 23a7535a398109949c166a9869d30d65d9db0b32
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
-	branch = 50e97caf755083b4748bc501efd24918579945a7
+	branch = 955f3950582b8a7f80c6a4f60fc066a2d2d8b696
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
@@ -112,7 +116,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 162b2e98c036a8f8c355fd475dbe0db4f4bc886c
+	branch = fb5b097e5c20d2af9d4178530f0f4acd9d173401
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -123,6 +127,10 @@
 	branch = 90d1674de7ffc572267d9642d1a6436f168e80e7
 	path = third_party/gflags
 	url = ../third_party/gflags
+[submodule "third_party/glfw"]
+	branch = 999f3556fdd80983b10051746264489f2cb1ef16
+	path = third_party/glfw
+	url = ../third_party/glfw
 [submodule "third_party/glm"]
 	branch = 5dcc56489e1b66dfd5bca751fa9b8dc68059e008
 	path = third_party/glm
@@ -219,6 +227,10 @@
 	branch = f854f1d27488996dc8a6db3c9453f80b02585e12
 	path = third_party/googletest
 	url = ../third_party/googletest
+[submodule "third_party/gperftools"]
+	branch = e9ab4c53041ac62feefbbb076d326e9a77dd1567
+	path = third_party/gperftools
+	url = ../third_party/github.com/gperftools/gperftools
 [submodule "third_party/grpc"]
 	branch = 0ff685360babf70bc5f8be5ed90fd57bf241dc00
 	path = third_party/grpc
@@ -284,11 +296,11 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/openssh-portable"]
-	branch = 06e7ff1f5cc2f48f85255ea20127746cd6fce423
+	branch = 9dacf6ad220595723d2cbbb1b4d5278780e4172f
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
-	branch = master
+	branch = 12bde097bba0dc6b29ea4d945219fd1c93c5f82b
 	shallow = true
 	path = third_party/pixman
 	url = ../third_party/pixman
@@ -325,7 +337,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = 5c77f6c5de0b02bfc79a32a727e82c0e17e0bb4d
+	branch = 71c28e79bee81a11209cc2f7019e3d2afffffd22
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
@@ -357,7 +369,7 @@
 	path = third_party/shaderc
 	url = ../third_party/shaderc
 [submodule "third_party/skia"]
-	branch = 408ef21c791589f3faef6c98f97f94e26025d099
+	branch = 23d1f94faac1e61e1df2379aae51fc65e4c57b36
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
@@ -373,11 +385,11 @@
 	path = third_party/sqlite
 	url = ../third_party/sqlite
 [submodule "third_party/syzkaller"]
-	branch = 660ccde57fa77931029b793b4226f8b544eeb49e
+	branch = 1d606f15de06449b96b872ba275a5ac793295a06
 	path = third_party/syzkaller
 	url = ../third_party/syzkaller
 [submodule "third_party/tonic"]
-	branch = 077be256142ede39a271385907faadf4fcc62a4d
+	branch = 5c9c2b63091ffd6000d44a3b5ff86e4f349e6978
 	path = third_party/tonic
 	url = ../tonic
 [submodule "third_party/vboot_reference"]
@@ -389,7 +401,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = df5bb4b6963d2df6ef5f35bca6150e23555ca759
+	branch = 75ea9a63d16957dde88e17bfa1a9063bd94c8806
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
@@ -401,7 +413,7 @@
 	path = third_party/wayland
 	url = ../third_party/wayland
 [submodule "third_party/webkit"]
-	branch = master
+	branch = 18e3a68579ae324f7454d22a123e5da09c5156c6
 	shallow = true
 	path = third_party/webkit
 	url = ../third_party/webkit
@@ -414,10 +426,10 @@
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
-	branch = master
+	branch = a04f19c94de847eee8049da90deb21d1f0ab5958
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 9f5f424a60876c51d94d82f44c5a8820ecd3db51
+	branch = b3b9c57c3c768fbdbaf680c43257d42eeb2c19c1
 	path = zircon
 	url = ../zircon
