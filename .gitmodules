@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = d30207118cad6d3ffc00728d5e7ddc2954582e4e
+	branch = 4ba9aec885547a000c9123f2ef34e67917d40c85
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -228,7 +228,7 @@
 	path = third_party/googletest
 	url = ../third_party/googletest
 [submodule "third_party/gperftools"]
-	branch = e9ab4c53041ac62feefbbb076d326e9a77dd1567
+	branch = fd5d486c9013041054e1783e8f3b5e1e4e8b2359
 	path = third_party/gperftools
 	url = ../third_party/github.com/gperftools/gperftools
 [submodule "third_party/grpc"]
