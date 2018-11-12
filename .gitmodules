@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 4ba9aec885547a000c9123f2ef34e67917d40c85
+	branch = adc83bfc2a654a142722c2f827c56b8f963136b4
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -19,7 +19,7 @@
 	path = integration
 	url = ../integration
 [submodule "peridot"]
-	branch = d118c37b51a4ad8f430af56f88c2691e56c29027
+	branch = 1d06a8fdce30be03ce7add9b502580991ebaa5f1
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
@@ -68,15 +68,15 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 18a27cef87617554f51bd7f268b8a19f019060f7
+	branch = d1eeca86af6e45a61f88964e085ed4745c8570ec
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = 5ad68098f0240ed72cccfbf417c5b41f124c5745
+	branch = c22a1edb1a8710d2ac405f28ac1c449ee5da6fdd
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = fabc38865634e8fff5d974611fb147810fa8af4b
+	branch = d7d37239b50e6271d1fbac0e8205e92845f1a472
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
@@ -369,7 +369,7 @@
 	path = third_party/shaderc
 	url = ../third_party/shaderc
 [submodule "third_party/skia"]
-	branch = 23d1f94faac1e61e1df2379aae51fc65e4c57b36
+	branch = 69ff89579abe88a50cf0895b3db6228221bcf736
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
@@ -426,10 +426,10 @@
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
-	branch = a04f19c94de847eee8049da90deb21d1f0ab5958
+	branch = 3f857b6ca7d7b170339d6118afd43a2613dd8b59
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = b3b9c57c3c768fbdbaf680c43257d42eeb2c19c1
+	branch = 0549cbf17ca7b40eb554549b8c0c2b813483d834
 	path = zircon
 	url = ../zircon
