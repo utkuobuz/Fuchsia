@@ -72,7 +72,7 @@
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
-	branch = c22a1edb1a8710d2ac405f28ac1c449ee5da6fdd
+	branch = 6904a9210ce4246152b3541b85c4c45286c09d48
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
