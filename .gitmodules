@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = fda957411ed24e454f49746c9f34aada960c1e81
+	branch = c4a84ce78ac72a251fc146b7d3862179a5e6ee09
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
