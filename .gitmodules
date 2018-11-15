@@ -228,7 +228,7 @@
 	path = third_party/googletest
 	url = ../third_party/googletest
 [submodule "third_party/gperftools"]
-	branch = fd5d486c9013041054e1783e8f3b5e1e4e8b2359
+	branch = ba0383103b79c4d088721a8ffaf15391e6bef07f
 	path = third_party/gperftools
 	url = ../third_party/github.com/gperftools/gperftools
 [submodule "third_party/grpc"]
