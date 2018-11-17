@@ -80,7 +80,7 @@
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
-	branch = 71c75401c43c771bbdf18329b92477914cc6afa2
+	branch = ad788280e4df2fee44b24694a74efb0ea38d869e
 	path = third_party/crashpad
 	url = https://chromium.googlesource.com/crashpad/crashpad
 [submodule "third_party/curl"]
