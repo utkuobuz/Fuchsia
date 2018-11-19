@@ -88,11 +88,11 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 23a7535a398109949c166a9869d30d65d9db0b32
+	branch = 99374edc6c3d5ce7984ffa21d4611714e9c94c5d
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
-	branch = a1c3bb40a418d1f87c098a37af989d79924121a0
+	branch = 5d6959589b0be8d9745425242b6e9b1de944f65a
 	path = third_party/dart-pkg/pub
 	url = ../third_party/dart-pkg
 [submodule "third_party/dart"]
@@ -116,7 +116,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = fb5b097e5c20d2af9d4178530f0f4acd9d173401
+	branch = 5006ce574823bc36620f99f5dd6cc7076ceb2afa
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -426,7 +426,7 @@
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
-	branch = 5a023ccb054104846e3e913951bcc7dc277d2274
+	branch = f9f90642c280c689145079879d49c7f3b642afe7
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
