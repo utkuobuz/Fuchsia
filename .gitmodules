@@ -19,7 +19,7 @@
 	path = integration
 	url = ../integration
 [submodule "peridot"]
-	branch = 9ce63f51ff5ac07c80163697caa3f9aa9aef27a8
+	branch = ea9671bd11cc2f749bee1be6631f46cda5343fa8
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
