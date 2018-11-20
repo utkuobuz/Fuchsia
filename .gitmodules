@@ -68,7 +68,7 @@
 	path = third_party/cares
 	url = ../third_party/c-ares
 [submodule "third_party/catapult"]
-	branch = 1e54003639e3666dd8abe9b7af69a6c673a96ec0
+	branch = d11507507daae2e80b82614c6bbf07975e8843b7
 	path = third_party/catapult
 	url = https://chromium.googlesource.com/catapult
 [submodule "third_party/cobalt"]
