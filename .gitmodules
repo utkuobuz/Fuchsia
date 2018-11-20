@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = a5c1129c9f6276c8a7bdf36e052eaeb77857c588
+	branch = 6175b5a0bdbb602a09b9315455c25b9b06dcd6e4
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -140,7 +140,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 6a981db3c8dd2668ba1f1decfe3273e8e327ee8d
+	branch = e185ce9673ccb18a574ccdb905be68d27b37f65f
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
@@ -430,6 +430,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = 634e17e01bd5506b2fc13d99cf6d7acfd4bbd297
+	branch = b1eeb5119d41c2604151d4658fdc0681e7519671
 	path = zircon
 	url = ../zircon
