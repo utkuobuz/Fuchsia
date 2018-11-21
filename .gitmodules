@@ -388,10 +388,6 @@
 	branch = 75a36fe49cdc4611348136918bc9c6de56d0dc73
 	path = third_party/sqlite
 	url = ../third_party/sqlite
-[submodule "third_party/syzkaller"]
-	branch = 1d606f15de06449b96b872ba275a5ac793295a06
-	path = third_party/syzkaller
-	url = ../third_party/syzkaller
 [submodule "third_party/tonic"]
 	branch = 5c9c2b63091ffd6000d44a3b5ff86e4f349e6978
 	path = third_party/tonic
