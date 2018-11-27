@@ -88,7 +88,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = 99374edc6c3d5ce7984ffa21d4611714e9c94c5d
+	branch = e0f642ecbbd4a70244f71b8d819bd9d418982d6f
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -116,7 +116,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 5006ce574823bc36620f99f5dd6cc7076ceb2afa
+	branch = 84e3b137a16d3c673e89b340fbd2b097a4b5a3ba
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -373,7 +373,7 @@
 	path = third_party/shaderc
 	url = ../third_party/shaderc
 [submodule "third_party/skia"]
-	branch = 5369e1422fe83e5b467acc5a1f9f008da517062c
+	branch = 988f54e4689b3d9fb6d5220e02b418f5cfa2b6db
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
