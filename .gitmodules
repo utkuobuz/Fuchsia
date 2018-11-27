@@ -216,7 +216,7 @@
 	path = third_party/golibs/golang.org/x/crypto
 	url = ../third_party/golang/crypto
 [submodule "third_party/golibs/golang.org/x/net"]
-	branch = a04bdaca5b32abe1c069418fb7088ae607de5bd0
+	branch = adae6a3d119ae4890b46832a2e88a95adc62b8e7
 	path = third_party/golibs/golang.org/x/net
 	url = ../third_party/golang.org/x/net
 [submodule "third_party/golibs/golang.org/x/oauth2"]
