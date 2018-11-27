@@ -345,7 +345,7 @@
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
-	branch = 8ca927be7c2b12b0d3e288183493c1079ccad1d4
+	branch = 246ab4b4bfcca364c0da6267f04266a8da1f3a47
 	path = third_party/rust-mirrors/cargo-vendor
 	url = ../third_party/cargo-vendor
 [submodule "third_party/rust-mirrors/rand"]
