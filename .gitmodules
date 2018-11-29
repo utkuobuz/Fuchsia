@@ -426,7 +426,7 @@
 	path = third_party/zlib
 	url = ../third_party/zlib
 [submodule "topaz"]
-	branch = 5a89dbb4ce17467fb30b0b5ef3ae1e363d40cd9b
+	branch = 56c885c0922aa8efd62ef57536fbc026fd0ce25d
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
