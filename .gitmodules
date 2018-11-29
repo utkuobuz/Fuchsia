@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = c7e3516c221b71c6e9c74e6eae61261ebfb0fe9c
+	branch = 1911cc8b63963cbc497a844fae8af19439dd0526
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -180,7 +180,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 26bc1beb19b61a85b86be893b58e91b96e5a029d
+	branch = 13d410b25d02ff891f8192ccd7a2d2d534530d38
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
