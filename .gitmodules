@@ -260,7 +260,7 @@
 	path = third_party/jinja2
 	url = ../third_party/jinja2
 [submodule "third_party/leveldb"]
-	branch = 7b6b590cb22a53cac7dff58afa48130d4a16c06e
+	branch = 06f21010e4a1aa54f8dcf5f0d86702ae49a834cd
 	path = third_party/leveldb
 	url = ../third_party/leveldb
 [submodule "third_party/libc-tests"]
