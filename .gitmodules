@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = 894ceb208790e500a05ccc91847972fd89bd7547
+	branch = 3955cf0ccfb3173fa668190c6c0bc6c840176872
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -341,7 +341,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = a198dadd21218e9ef7c062a4351b8c3acaa8e96f
+	branch = d175efb8534008049b4a177a25142a3c8209535a
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
