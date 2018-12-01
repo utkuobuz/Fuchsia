@@ -88,7 +88,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = e0f642ecbbd4a70244f71b8d819bd9d418982d6f
+	branch = a226c0f0d9f5d699a3d706fd9060edf6da45b13b
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -116,7 +116,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 84e3b137a16d3c673e89b340fbd2b097a4b5a3ba
+	branch = 7375a0f414bde4bc941e623482221db2fc8c4ab5
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
