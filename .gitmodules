@@ -357,7 +357,7 @@
 	path = third_party/rust-mirrors/rust-crypto
 	url = ../third_party/rust-mirrors/rust-crypto
 [submodule "third_party/rust-mirrors/rustyline"]
-	branch = f990afad2f1ccbab51c3b27f243548e8fd802843
+	branch = 060f03b011b75ec67107ac3598bc52b7640ad9c2
 	path = third_party/rust-mirrors/rustyline
 	url = ../third_party/rust-mirrors/rustyline
 [submodule "third_party/rust-mirrors/xi-editor"]
