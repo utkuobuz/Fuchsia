@@ -300,7 +300,7 @@
 	path = third_party/murmurhash
 	url = ../third_party/murmurhash.c
 [submodule "third_party/openssh-portable"]
-	branch = 496d46bed59c0062fb2364abd56def679eeb8720
+	branch = a90b1fc929e34709007b4eedec131458d27e7da6
 	path = third_party/openssh-portable
 	url = ../third_party/openssh-portable
 [submodule "third_party/pixman"]
