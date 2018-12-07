@@ -430,7 +430,7 @@
 	path = tools
 	url = ../tools
 [submodule "topaz"]
-	branch = 5fd9e869d01e739219a4c1e869787c44138b1cc2
+	branch = 6ed25092e6d5a7da94fb60fe3a7e123555eb03c7
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
