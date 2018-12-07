@@ -76,7 +76,7 @@
 	path = third_party/cobalt
 	url = ../cobalt
 [submodule "third_party/cobalt_config"]
-	branch = 00d2a2371723e57dc8ae3e8de75f89e51844e1a2
+	branch = 8e855c9816fd28a3834d0d0ed015cd3310419198
 	path = third_party/cobalt_config
 	url = https://cobalt-analytics.googlesource.com/config
 [submodule "third_party/crashpad"]
