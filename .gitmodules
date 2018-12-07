@@ -3,7 +3,7 @@
 	path = build
 	url = ../build
 [submodule "buildtools"]
-	branch = e616db9fa6358133481d9390b27fa61fb32dee93
+	branch = b43ee3d34ff888451f7d0b5634e5cf8c9bb24a6a
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
