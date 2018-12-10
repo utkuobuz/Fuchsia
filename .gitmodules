@@ -341,7 +341,7 @@
 	path = third_party/roughtime
 	url = ../third_party/roughtime
 [submodule "third_party/rust-crates"]
-	branch = a8a723167e177b85ebb4188ddf1d90a492e4ac6c
+	branch = d2db9b278e96dcb89e9e765a00a15ab0f0454480
 	path = third_party/rust-crates
 	url = ../third_party/rust-crates
 [submodule "third_party/rust-mirrors/cargo-vendor"]
