@@ -140,7 +140,7 @@
 	path = third_party/glog
 	url = ../third_party/glog
 [submodule "third_party/go"]
-	branch = 550b8ac3263a232e48affe7d282fd2fd4f7bce29
+	branch = 1b74aeebcb9b8c9cf6ffc4bcb1ec66d6d9e78fbc
 	path = third_party/go
 	url = ../third_party/go
 [submodule "third_party/golibs/github.com/dustin/go-humanize"]
