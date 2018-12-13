@@ -264,7 +264,7 @@
 	path = third_party/leveldb
 	url = ../third_party/leveldb
 [submodule "third_party/libc-tests"]
-	branch = f61897ea129c33a7d864696bf9d26e9af997ae29
+	branch = 190ce381c268bf065d675196701d4849284ba3a2
 	path = third_party/libc-tests
 	url = ../libc-tests
 [submodule "third_party/libjpeg-turbo"]
