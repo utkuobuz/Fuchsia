@@ -7,7 +7,7 @@
 	path = buildtools
 	url = ../buildtools
 [submodule "docs"]
-	branch = d70fca43e9a28add2841a0cffa4104ffadc2e77f
+	branch = 513ab0c7ffa8b856111cee5ef113918565f98680
 	path = docs
 	url = ../docs
 [submodule "garnet"]
