@@ -88,7 +88,7 @@
 	path = third_party/curl
 	url = ../third_party/curl
 [submodule "third_party/dart-pkg/git/flutter"]
-	branch = c461e9336342b22afe39198b22be3607a54466d8
+	branch = 0e9ad4341695b8825ba90c60ce980f363ceb6c53
 	path = third_party/dart-pkg/git/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/flutter
 [submodule "third_party/dart-pkg/pub"]
@@ -116,7 +116,7 @@
 	path = third_party/flite
 	url = ../third_party/flite
 [submodule "third_party/flutter"]
-	branch = 7375a0f414bde4bc941e623482221db2fc8c4ab5
+	branch = 494112582932af98b282617d7a34b1fbb8c90307
 	path = third_party/flutter
 	url = https://chromium.googlesource.com/external/github.com/flutter/engine
 [submodule "third_party/freetype2"]
@@ -373,7 +373,7 @@
 	path = third_party/shaderc
 	url = ../third_party/shaderc
 [submodule "third_party/skia"]
-	branch = 988f54e4689b3d9fb6d5220e02b418f5cfa2b6db
+	branch = 2e6db18c4309f7f2036e40abf77804086132c237
 	path = third_party/skia
 	url = https://skia.googlesource.com/skia
 [submodule "third_party/snappy"]
@@ -430,7 +430,7 @@
 	path = tools
 	url = ../tools
 [submodule "topaz"]
-	branch = 391f65fe0d37290e28ec37434520eb25b5d4c61f
+	branch = 381503e6aafd46b1a4470f4c7a8c39add900f1ba
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
