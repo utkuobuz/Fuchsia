@@ -23,7 +23,7 @@
 	path = peridot
 	url = ../peridot
 [submodule "scripts"]
-	branch = 1c5a0ee55c2cfb67ae5231ad5e25f50737426831
+	branch = 0eff08d6f036a229ab6fbeb28ff33e4909bee2e9
 	path = scripts
 	url = ../scripts
 [submodule "third_party/abseil-cpp"]
