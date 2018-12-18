@@ -11,7 +11,7 @@
 	path = docs
 	url = ../docs
 [submodule "garnet"]
-	branch = fa09bd3ef5c052e46001267d7c3257ea13c7b325
+	branch = 750c278495eec3a4a046d7a1ae1000491f586acc
 	path = garnet
 	url = ../garnet
 [submodule "integration"]
@@ -434,6 +434,6 @@
 	path = topaz
 	url = ../topaz
 [submodule "zircon"]
-	branch = d3a80f7adcd1823b0d009ff85af15ec10d7f1fc0
+	branch = 6c85f2ab3f359e1124a158bfffa585128011d730
 	path = zircon
 	url = ../zircon
