@@ -1,5 +1,5 @@
 [submodule "build"]
-	branch = 3671c61dc938e1b36d0376f486864269b2dfd6f7
+	branch = 506572ef2bc8c471766efa6d6cba90004e39d8c4
 	path = build
 	url = ../build
 [submodule "buildtools"]
