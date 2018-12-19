@@ -401,7 +401,7 @@
 	path = third_party/vim
 	url = ../third_party/vim
 [submodule "third_party/vulkan-cts"]
-	branch = 99b5a2c077fcd29853640166b38725f68a986abf
+	branch = 3a89769a0dc8aee88f7c779bb7114a40b2da5bc6
 	path = third_party/vulkan-cts
 	url = ../third_party/vulkan-cts
 [submodule "third_party/vulkan_loader_and_validation_layers"]
