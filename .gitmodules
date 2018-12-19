@@ -180,7 +180,7 @@
 	path = third_party/golibs/github.com/google/go-cmp
 	url = ../third_party/github.com/google/go-cmp
 [submodule "third_party/golibs/github.com/google/netstack"]
-	branch = 13d410b25d02ff891f8192ccd7a2d2d534530d38
+	branch = e34802b524e04afa9f1cea05b0c4c7662bec3880
 	path = third_party/golibs/github.com/google/netstack
 	url = ../third_party/netstack
 [submodule "third_party/golibs/github.com/google/subcommands"]
